@@ -22,10 +22,17 @@
 	
 	if(userIsInTheMiddleOfTypingANumber)
 	{
+		if([digit isEqual:(@".")]){
+			NSRange range = [[display text] rangeOfString: @"."];
+			if(range.location != NSNotFound) return;
+		}
 		[display setText:[[display text] stringByAppendingString:digit]];
 	}
 	else 
 	{
+		if([digit isEqual:(@".")]){
+			digit = [@"0" stringByAppendingString:digit];
+		}
 		[display setText:digit];
 		userIsInTheMiddleOfTypingANumber = YES;
 	}

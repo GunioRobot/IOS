@@ -14,6 +14,7 @@
 	double operand;
 	NSString *waitingOperation;
 	double waitingOperand;
+	double memory;
 }
 
 - (void)setOperand:(double)aDouble;
