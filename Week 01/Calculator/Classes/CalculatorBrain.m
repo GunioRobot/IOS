@@ -11,10 +11,7 @@
 
 @implementation CalculatorBrain
 
-- (void)setOperand:(double)aDouble 
-{
-	operand = aDouble;
-}
+@synthesize operand;
 
 - (void)performWaitingOperation
 {
