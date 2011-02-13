@@ -1,0 +1,51 @@
+TCollector
+v7
+r1
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/CollectorViewController.xib
+c000000004CA5015B00000000000094BC
+t1285882203
+s38076
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/MainWindow.xib
+c000000004BBCB8370000000000002662
+t1270659127
+s9826
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug/Collector.app
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug/Collector.app/Contents/Info.plist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug/Collector.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug/Collector.app/Contents/Resources/CollectorViewController.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug/Collector.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NCollector-Info.plist
+c000000004BBCB837000000000000038D
+t1270659127
+s909
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 02/Collector/CollectorViewController.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 02/Collector/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug/Collector.app/Contents/Info.plist" Collector-Info.plist
+r0
+
+CTouch "/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug/Collector.app"
+r0
+

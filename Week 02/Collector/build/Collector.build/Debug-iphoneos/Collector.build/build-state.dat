@@ -1,0 +1,257 @@
+TCollector
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/../Collector.m
+c000000004CA5003B0000000000000B02
+t1285881915
+s2818
+i"Collector.h"
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/CollectorAppDelegate.h
+c000000004BBCB83700000000000001E2
+t1270659127
+s482
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/CollectorAppDelegate.m
+c000000004BBCB83700000000000002A4
+t1270659127
+s676
+i"CollectorAppDelegate.h"
+i"CollectorViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/CollectorViewController.h
+c000000004CA5012C0000000000000462
+t1285882156
+s1122
+i<UIKit/UIKit.h>
+i"Collector.h"
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/CollectorViewController.m
+c000000004CA5011D0000000000000814
+t1285882141
+s2068
+i"CollectorViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/Collector.h
+c000000004CA4FE0B00000000000003F6
+t1285881355
+s1014
+i<Foundation/Foundation.h>
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/CollectorViewController.xib
+c000000004CA5015B00000000000094BC
+t1285882203
+s38076
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/Collector_Prefix.pch
+c000000004BBCB83700000000000000BB
+t1270659127
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/MainWindow.xib
+c000000004BBCB8370000000000002662
+t1270659127
+s9826
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/Collector
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/Collector.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/Collector.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/CollectorAppDelegate.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/CollectorViewController.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/Collector
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/Collector.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/Collector.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/CollectorAppDelegate.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/CollectorViewController.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app.dSYM
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app/Collector
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app/CollectorViewController.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app/Info.plist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app/MainWindow.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app/PkgInfo
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app/ResourceRules.plist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 02/Collector/main.m
+c000000004BBCB8370000000000000162
+t1270659127
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Collector_Prefix-cfzqtgsetdbewvgbefubtkndjvwm/Collector_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Collector_Prefix-dozhwdaovhoebxgwrsdudscdiger/Collector_Prefix.pch.gch
+t2
+s0
+
+NCollector-Info.plist
+c000000004BBCB837000000000000038D
+t1270659127
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319274421#319274422#0(138"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Collector' could not be found1(4@130"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Collector' could not be found319274422#18446744073709551615#0#0(1@0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/Collector.o "/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/../Collector.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/CollectorAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/CollectorAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/CollectorViewController.o "/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/CollectorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/main.o "/Users/work/Sites/Learning/IOS/Week 02/Collector/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/Collector.o "/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/../Collector.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/CollectorAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/CollectorAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/CollectorViewController.o "/Users/work/Sites/Learning/IOS/Week 02/Collector/Classes/CollectorViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/main.o "/Users/work/Sites/Learning/IOS/Week 02/Collector/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 02/Collector/CollectorViewController.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 02/Collector/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/Collector.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app/Collector" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app/Collector"
+r0
+
+CLd "/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv6/Collector" normal armv6
+r0
+
+CLd "/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Collector.build/Debug-iphoneos/Collector.build/Objects-normal/armv7/Collector" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app/Info.plist" Collector-Info.plist
+r0
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Collector_Prefix-cfzqtgsetdbewvgbefubtkndjvwm/Collector_Prefix.pch.gch Collector_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Collector_Prefix-dozhwdaovhoebxgwrsdudscdiger/Collector_Prefix.pch.gch Collector_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/work/Sites/Learning/IOS/Week 02/Collector/build/Debug-iphoneos/Collector.app"
+r0
+
