@@ -6,6 +6,13 @@
 			96DE99B11307BD7000588FD1 /* Collector */,
 		);
 	};
+	28D7ACF70DDB3853001CB0EB /* CollectorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2184, 1224}}";
+			sepNavSelRange = "{471, 0}";
+			sepNavVisRange = "{0, 2003}";
+		};
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 96DE99B11307BD7000588FD1 /* Collector */;
@@ -22,7 +29,7 @@
 					20,
 					2006,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -59,12 +66,58 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 319274352;
-			PBXWorkspaceStateSaveDate = 319274352;
+			PBXPerProjectTemplateStateSaveDate = 319345478;
+			PBXWorkspaceStateSaveDate = 319345478;
+		};
+		perUserProjectItems = {
+			96516E901308D33B001E8F6E = 96516E901308D33B001E8F6E /* PBXTextBookmark */;
+			96516E911308D33B001E8F6E = 96516E911308D33B001E8F6E /* PBXTextBookmark */;
+			96516E921308D33B001E8F6E = 96516E921308D33B001E8F6E /* PBXTextBookmark */;
+			96516E931308D33B001E8F6E = 96516E931308D33B001E8F6E /* PBXTextBookmark */;
 		};
 		sourceControlManager = 96DE99BB1307BDB700588FD1 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	96516E901308D33B001E8F6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CollectorViewController.m */;
+		name = "CollectorViewController.m: 13";
+		rLen = 0;
+		rLoc = 471;
+		rType = 0;
+		vrLen = 2003;
+		vrLoc = 0;
+	};
+	96516E911308D33B001E8F6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA83B71E116CEFC4006C2E27 /* Collector.h */;
+		name = "Collector.h: 8";
+		rLen = 19;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 1014;
+		vrLoc = 0;
+	};
+	96516E921308D33B001E8F6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA83B71F116CEFC4006C2E27 /* Collector.m */;
+		name = "Collector.m: 11";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 1764;
+		vrLoc = 1054;
+	};
+	96516E931308D33B001E8F6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA83B71F116CEFC4006C2E27 /* Collector.m */;
+		name = "Collector.m: 11";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 1764;
+		vrLoc = 1054;
 	};
 	96DE99B11307BD7000588FD1 /* Collector */ = {
 		isa = PBXExecutable;
@@ -109,9 +162,17 @@
 	};
 	DA83B71E116CEFC4006C2E27 /* Collector.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2184, 1100}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {2184, 1072}}";
+			sepNavSelRange = "{180, 19}";
 			sepNavVisRange = "{0, 1014}";
+		};
+	};
+	DA83B71F116CEFC4006C2E27 /* Collector.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2184, 1802}}";
+			sepNavSelRange = "{339, 0}";
+			sepNavVisRange = "{1054, 1764}";
+			sepNavWindowFrame = "{{15, 855}, {750, 558}}";
 		};
 	};
 }
