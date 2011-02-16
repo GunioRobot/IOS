@@ -1,0 +1,356 @@
+TGraphCalculator
+v7
+r0
+t319517108.186355
+cCheck dependencies
+cProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/Info.plist" GraphCalculator-Info.plist
+cCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/MainWindow.xib"
+cCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/CalculatorViewController.xib"
+cProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-dhrnvwclsohfvkaatxnsbtmjxjde/GraphCalculator_Prefix.pch.gch GraphCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/main.o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/GraphCalculatorAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorBrain.o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorViewController.o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator" normal i386
+cGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator"
+cTouch "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/CalculatorViewController.xib
+c000000004D58B0340000000000011FD2
+t1297657908
+s73682
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.h
+c000000004D58D0F800000000000003AB
+t1297666296
+s939
+i<Foundation/Foundation.h>
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m
+c000000004D590F8D000000000000141A
+t1297682317
+s5146
+i"CalculatorBrain.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.h
+c000000004D58ACC0000000000000024C
+t1297657024
+s588
+i<UIKit/UIKit.h>
+i"CalculatorBrain.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m
+c000000004D5B393900000000000009B0
+t1297824057
+s2480
+i"CalculatorViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.h
+c000000004D5B2EB60000000000000160
+t1297821366
+s352
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m
+c000000004D5B3A330000000000000B1C
+t1297824307
+s2844
+i"GraphCalculatorAppDelegate.h"
+i"CalculatorViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/GraphCalculator_Prefix.pch
+c000000004D5B2EB600000000000000C7
+t1297821366
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/MainWindow.xib
+c000000004D5B2EB60000000000002130
+t1297821366
+s8496
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app
+t1297824308
+s238
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app.dSYM
+t1297824308
+s102
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/CalculatorViewController.nib
+t1297821446
+s6841
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator
+t1297824308
+s31088
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/Info.plist
+t1297821445
+s629
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/MainWindow.nib
+t1297821446
+s992
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/PkgInfo
+t1297821445
+s8
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorBrain.o
+t1297821447
+s29084
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorViewController.o
+t1297824221
+s47220
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/GraphCalculator.LinkFileList
+c000000004D5B2F05000000000000029D
+t1297821445
+s669
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/GraphCalculatorAppDelegate.o
+t1297824308
+s53384
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/main.o
+t1297821447
+s6336
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/StaticAnalyzer/normal/i386/CalculatorBrain.plist
+t1297824221
+s276
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/StaticAnalyzer/normal/i386/CalculatorViewController.plist
+t1297824221
+s276
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/StaticAnalyzer/normal/i386/GraphCalculatorAppDelegate.plist
+t1297824234
+s4744
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/StaticAnalyzer/normal/i386/main.plist
+t1297824221
+s276
+
+N/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m
+c000000004D5B2EB60000000000000172
+t1297821366
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-dhrnvwclsohfvkaatxnsbtmjxjde/GraphCalculator_Prefix.pch.gch
+t1297821447
+s15453392
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-fjqvawrieuixmkhepqelygnfmqxx/GraphCalculator_Prefix.pch.pth
+t1297824220
+s2784088
+
+NGraphCalculator-Info.plist
+c000000004D5B2EB6000000000000038D
+t1297821366
+s909
+
+CAnalyze "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m"
+s319517021.341689
+e319517021.435274
+r1
+xAnalyze
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m
+lSLF07#2@88"Analyze /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m319517021#319517021#0(0"0(0#0#80"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m8615756224#2373"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-fjqvawrieuixmkhepqelygnfmqxx/GraphCalculator_Prefix.pch --analyze "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m" -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/StaticAnalyzer/normal/i386/CalculatorBrain.plist"0#
+
+CAnalyze "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m"
+s319517021.342660
+e319517021.410072
+r1
+xAnalyze
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m
+lSLF07#2@97"Analyze /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m319517021#319517021#0(0"0(0#0#89"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m8615437152#2391"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-fjqvawrieuixmkhepqelygnfmqxx/GraphCalculator_Prefix.pch --analyze "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m" -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/StaticAnalyzer/normal/i386/CalculatorViewController.plist"0#
+
+CAnalyze "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m"
+s319517034.432329
+e319517034.466565
+r1
+xAnalyze
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m
+o/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m:22:35: warning: Potential leak of an object allocated on line 22 and stored into 'nvc'
+o     UINavigationController *nvc = [[UINavigationController alloc] init];
+o                                   ^
+o1 warning generated.
+lSLF07#2@99"Analyze /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517034#319517034#0(311"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m:22:35: warning: Potential leak of an object allocated on line 22 and stored into 'nvc'     UINavigationController *nvc = [[UINavigationController alloc] init];                                   ^1 warning generated.1(0@70"Potential leak of an object allocated on line 22 and stored into 'nvc'319517034#18446744073709551615#0#4(17@0"319517034#18446744073709551615#0#0(6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#0#0#0#0#0"0(6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#0#0#0#0#1(3@6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#22#5#22#5#6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#22#35#22#71#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)319517034#18446744073709551615#0#0(6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#22#35#0#0#0"1(6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#22#35#22#71#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"319517034#18446744073709551615#0#0(6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#0#0#0#0#0"0(6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#0#0#0#0#1(3@6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#22#35#22#71#6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#27#5#27#5#21@135"Object allocated on line 22 and stored into 'nvc' is no longer referenced after this point and has a retain count of +1 (object leaked)319517034#18446744073709551615#0#0(6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#27#5#0#0#0"1(6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#27#5#27#5#135"Object allocated on line 22 and stored into 'nvc' is no longer referenced after this point and has a retain count of +1 (object leaked)6@91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517033#27#5#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m8616353120#2395"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-fjqvawrieuixmkhepqelygnfmqxx/GraphCalculator_Prefix.pch --analyze "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m" -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/StaticAnalyzer/normal/i386/GraphCalculatorAppDelegate.plist"0#
+
+CAnalyze "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m"
+s319517021.339913
+e319517021.408163
+r1
+xAnalyze
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m
+lSLF07#2@69"Analyze /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m319517021#319517021#0(0"0(0#0#61"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m8616304960#2343"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-fjqvawrieuixmkhepqelygnfmqxx/GraphCalculator_Prefix.pch --analyze "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m" -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319517108#319517108#0(0"0(0#1#0"8615245344#0"0#
+
+CCompileC build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorBrain.o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319514247.276287
+e319514247.565683
+r1
+xCompileC
+xbuild/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorBrain.o
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m319514247#319514247#0(0"0(0#0#80"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m8603627840#2364"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-dhrnvwclsohfvkaatxnsbtmjxjde/GraphCalculator_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorBrain.m" -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorBrain.o"0#
+
+CCompileC build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorViewController.o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319517021.009888
+e319517021.403027
+r1
+xCompileC
+xbuild/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorViewController.o
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m319517021#319517021#0(0"0(0#0#89"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m8616436512#2382"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-dhrnvwclsohfvkaatxnsbtmjxjde/GraphCalculator_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/CalculatorViewController.m" -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/CalculatorViewController.o"0#
+
+CCompileC build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/GraphCalculatorAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319517108.064179
+e319517108.152989
+r1
+xCompileC
+xbuild/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/GraphCalculatorAppDelegate.o
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m319517108#319517108#0(0"0(0#0#91"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m8605069024#2386"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-dhrnvwclsohfvkaatxnsbtmjxjde/GraphCalculator_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/Classes/GraphCalculatorAppDelegate.m" -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/GraphCalculatorAppDelegate.o"0#
+
+CCompileC build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/main.o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319514247.274743
+e319514247.538847
+r1
+xCompileC
+xbuild/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/main.o
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m319514247#319514247#0(0"0(0#0#61"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m8605476672#2334"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-dhrnvwclsohfvkaatxnsbtmjxjde/GraphCalculator_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/main.m" -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/CalculatorViewController.xib"
+s319514245.971824
+e319514246.534588
+r1
+xCompileXIB
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/CalculatorViewController.xib
+lSLF07#2@39"CompileXIB CalculatorViewController.xib319514245#319514246#0(0"0(0#0#83"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/CalculatorViewController.xib8605546912#722"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/CalculatorViewController.nib" "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/CalculatorViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/MainWindow.xib"
+s319514245.968367
+e319514246.328027
+r1
+xCompileXIB
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319514245#319514246#0(0"0(0#0#69"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/MainWindow.xib8604604480#694"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/MainWindow.nib" "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator"
+s319517108.172362
+e319517108.184372
+r1
+xGenerateDSYMFile
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app.dSYM
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/GraphCalculator.app.dSYM build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator319517108#319517108#0(0"0(0#0#118"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator8614397408#523"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator" -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app.dSYM"0#
+
+CLd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator" normal i386
+s319517108.153062
+e319517108.172280
+r1
+xLd
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator
+xnormal
+xi386
+lSLF07#2@123"Link /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator319517108#319517108#0(0"0(0#0#0"8615562240#1092"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" -filelist "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/Objects-normal/i386/GraphCalculator.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/GraphCalculator"0#
+
+CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/Info.plist" GraphCalculator-Info.plist
+s319514245.951204
+e319514245.968207
+r1
+xProcessInfoPlistFile
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/Info.plist
+xGraphCalculator-Info.plist
+lSLF07#2@34"Process GraphCalculator-Info.plist319514245#319514245#0(0"0(0#0#81"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/GraphCalculator-Info.plist8458434393682504704#619"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility GraphCalculator-Info.plist -genpkginfo "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app/Info.plist"0#
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-dhrnvwclsohfvkaatxnsbtmjxjde/GraphCalculator_Prefix.pch.gch GraphCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319514246.534805
+e319514247.274666
+r1
+xProcessPCH
+x/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-dhrnvwclsohfvkaatxnsbtmjxjde/GraphCalculator_Prefix.pch.gch
+xGraphCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile GraphCalculator_Prefix.pch319514246#319514247#0(0"0(0#0#81"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/GraphCalculator_Prefix.pch8605047552#2200"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -c "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/GraphCalculator_Prefix.pch" -o /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-dhrnvwclsohfvkaatxnsbtmjxjde/GraphCalculator_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-fjqvawrieuixmkhepqelygnfmqxx/GraphCalculator_Prefix.pch.pth GraphCalculator_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s319517020.561992
+e319517020.966023
+r1
+xProcessPCH
+x/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-fjqvawrieuixmkhepqelygnfmqxx/GraphCalculator_Prefix.pch.pth
+xGraphCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@37"Precompile GraphCalculator_Prefix.pch319517020#319517020#0(0"0(0#0#81"/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/GraphCalculator_Prefix.pch8615602720#2191"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/GraphCalculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/GraphCalculator.build/Debug-iphonesimulator/GraphCalculator.build/DerivedSources" -c "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/GraphCalculator_Prefix.pch" -o /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/GraphCalculator_Prefix-fjqvawrieuixmkhepqelygnfmqxx/GraphCalculator_Prefix.pch.pth0#
+
+CTouch "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app"
+s319517108.184431
+e319517108.186327
+r1
+xTouch
+x/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app
+lSLF07#2@108"Touch /Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app319517108#319517108#0(0"0(0#0#0"8604945824#384"    cd "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/build/Debug-iphonesimulator/GraphCalculator.app"0#
+

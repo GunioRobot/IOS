@@ -1,0 +1,252 @@
+THappiness
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m
+c000000004CAE55ED00000000000009A2
+t1286493677
+s2466
+i"FaceView.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.h
+c000000004CABBF4D00000000000001F2
+t1286324045
+s498
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m
+c000000004CABBF4D0000000000000A9C
+t1286324045
+s2716
+i"HappinessAppDelegate.h"
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.h
+c000000004CAE57620000000000000211
+t1286494050
+s529
+i<UIKit/UIKit.h>
+i"FaceView.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m
+c000000004CAE584E00000000000004A9
+t1286494286
+s1193
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/FaceView.h
+c000000004CABC28500000000000001AD
+t1286324869
+s429
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib
+c000000004CAE586A00000000000053AC
+t1286494314
+s21420
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Happiness_Prefix.pch
+c000000004CABBF4D00000000000000BB
+t1286324045
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib
+c000000004CABBF4D0000000000004E41
+t1286324045
+s20033
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app.dSYM
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app/Happiness
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app/HappinessViewController.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app/Info.plist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app/MainWindow.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app/PkgInfo
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app/ResourceRules.plist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/FaceView.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/Happiness
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/Happiness.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/HappinessAppDelegate.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/HappinessViewController.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/FaceView.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/Happiness
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/Happiness.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/HappinessAppDelegate.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/HappinessViewController.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m
+c000000004CABBF4D0000000000000172
+t1286324045
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-ctqizdpdjzqmumfoaqyoxtpgidvi/Happiness_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-dxqrwbymybuehtepbcorzstwgidt/Happiness_Prefix.pch.gch
+t2
+s0
+
+NHappiness-Info.plist
+c000000004CABBF4D000000000000038D
+t1286324045
+s909
+
+CCompileC build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/FaceView.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/HappinessAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/HappinessViewController.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/main.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/FaceView.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/HappinessAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/HappinessViewController.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/main.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/Happiness.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app/Happiness" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app/Happiness"
+r0
+
+CLd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv6/Happiness" normal armv6
+r0
+
+CLd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphoneos/Happiness.build/Objects-normal/armv7/Happiness" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app/Info.plist" Happiness-Info.plist
+r0
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-ctqizdpdjzqmumfoaqyoxtpgidvi/Happiness_Prefix.pch.gch Happiness_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-dxqrwbymybuehtepbcorzstwgidt/Happiness_Prefix.pch.gch Happiness_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphoneos/Happiness.app"
+r0
+

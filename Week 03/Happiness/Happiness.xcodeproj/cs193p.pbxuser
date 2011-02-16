@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* HappinessAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 416}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 498}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Happiness */ = {
+		activeExec = 0;
+		executables = (
+			EC8530C5125BF6CD0000811C /* Happiness */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 416}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 252}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* HappinessViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 924}}";
+			sepNavSelRange = "{1475, 0}";
+			sepNavVisRange = "{0, 683}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC8530C5125BF6CD0000811C /* Happiness */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Happiness */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Happiness */,
+		);
+		codeSenseManager = EC8530D6125BF6EC0000811C /* Code sense */;
+		executables = (
+			EC8530C5125BF6CD0000811C /* Happiness */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					705,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308016845;
+			PBXWorkspaceStateSaveDate = 308016845;
+		};
+		perUserProjectItems = {
+			EC8530EF125C07A60000811C /* PBXTextBookmark */ = EC8530EF125C07A60000811C /* PBXTextBookmark */;
+			EC8530F0125C07A60000811C /* PBXTextBookmark */ = EC8530F0125C07A60000811C /* PBXTextBookmark */;
+			EC8530F1125C07A60000811C /* PBXTextBookmark */ = EC8530F1125C07A60000811C /* PBXTextBookmark */;
+			EC8530F2125C07A60000811C /* PBXTextBookmark */ = EC8530F2125C07A60000811C /* PBXTextBookmark */;
+			EC8530F3125C07A60000811C /* PBXTextBookmark */ = EC8530F3125C07A60000811C /* PBXTextBookmark */;
+			EC853102125C07D30000811C /* PBXTextBookmark */ = EC853102125C07D30000811C /* PBXTextBookmark */;
+			EC853103125C07D30000811C /* PBXTextBookmark */ = EC853103125C07D30000811C /* PBXTextBookmark */;
+			EC853104125C07D30000811C /* PBXTextBookmark */ = EC853104125C07D30000811C /* PBXTextBookmark */;
+			EC853105125C07D30000811C /* PBXTextBookmark */ = EC853105125C07D30000811C /* PBXTextBookmark */;
+			EC853106125C07D30000811C /* PBXTextBookmark */ = EC853106125C07D30000811C /* PBXTextBookmark */;
+			EC853107125C07ED0000811C /* PBXTextBookmark */ = EC853107125C07ED0000811C /* PBXTextBookmark */;
+			EC853108125C07ED0000811C /* PBXTextBookmark */ = EC853108125C07ED0000811C /* PBXTextBookmark */;
+			EC853109125C07ED0000811C /* PBXTextBookmark */ = EC853109125C07ED0000811C /* PBXTextBookmark */;
+			EC853110125C08060000811C /* PBXTextBookmark */ = EC853110125C08060000811C /* PBXTextBookmark */;
+			EC853115125C080F0000811C /* PBXTextBookmark */ = EC853115125C080F0000811C /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC8530D5125BF6EC0000811C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EC8530C5125BF6CD0000811C /* Happiness */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Happiness;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EC8530D5125BF6EC0000811C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC8530D6125BF6EC0000811C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC8530D9125BF7070000811C /* FaceView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 393}}";
+			sepNavSelRange = "{280, 0}";
+			sepNavVisRange = "{0, 429}";
+		};
+	};
+	EC8530DA125BF7070000811C /* FaceView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 1176}}";
+			sepNavSelRange = "{1895, 0}";
+			sepNavVisRange = "{1487, 788}";
+		};
+	};
+	EC8530EF125C07A60000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HappinessAppDelegate.h */;
+		name = "HappinessAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 0;
+	};
+	EC8530F0125C07A60000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC8530D9125BF7070000811C /* FaceView.h */;
+		name = "FaceView.h: 14";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 429;
+		vrLoc = 0;
+	};
+	EC8530F1125C07A60000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC8530DA125BF7070000811C /* FaceView.m */;
+		name = "FaceView.m: 71";
+		rLen = 37;
+		rLoc = 1898;
+		rType = 0;
+		vrLen = 636;
+		vrLoc = 0;
+	};
+	EC8530F2125C07A60000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	EC8530F3125C07A60000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 22";
+		rLen = 0;
+		rLoc = 245;
+		rType = 0;
+		vrLen = 484;
+		vrLoc = 0;
+	};
+	EC853102125C07D30000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 22";
+		rLen = 0;
+		rLoc = 245;
+		rType = 0;
+		vrLen = 484;
+		vrLoc = 0;
+	};
+	EC853103125C07D30000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HappinessViewController.m */;
+		name = "HappinessViewController.m: 65";
+		rLen = 0;
+		rLoc = 1475;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 0;
+	};
+	EC853104125C07D30000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC8530D9125BF7070000811C /* FaceView.h */;
+		name = "FaceView.h: 14";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 429;
+		vrLoc = 0;
+	};
+	EC853105125C07D30000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC8530DA125BF7070000811C /* FaceView.m */;
+		name = "FaceView.m: 71";
+		rLen = 37;
+		rLoc = 1898;
+		rType = 0;
+		vrLen = 764;
+		vrLoc = 1507;
+	};
+	EC853106125C07D30000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC8530DA125BF7070000811C /* FaceView.m */;
+		name = "FaceView.m: 71";
+		rLen = 0;
+		rLoc = 1895;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 1487;
+	};
+	EC853107125C07ED0000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC8530DA125BF7070000811C /* FaceView.m */;
+		name = "FaceView.m: 71";
+		rLen = 0;
+		rLoc = 1895;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 1487;
+	};
+	EC853108125C07ED0000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HappinessViewController.m */;
+		name = "HappinessViewController.m: 65";
+		rLen = 0;
+		rLoc = 1475;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 0;
+	};
+	EC853109125C07ED0000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 13";
+		rLen = 0;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 0;
+	};
+	EC853110125C08060000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 10";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+	EC853115125C080F0000811C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 10";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+}

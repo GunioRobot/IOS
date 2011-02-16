@@ -70,10 +70,10 @@
 			PBXWorkspaceStateSaveDate = 319345478;
 		};
 		perUserProjectItems = {
-			96516E901308D33B001E8F6E = 96516E901308D33B001E8F6E /* PBXTextBookmark */;
-			96516E911308D33B001E8F6E = 96516E911308D33B001E8F6E /* PBXTextBookmark */;
-			96516E921308D33B001E8F6E = 96516E921308D33B001E8F6E /* PBXTextBookmark */;
-			96516E931308D33B001E8F6E = 96516E931308D33B001E8F6E /* PBXTextBookmark */;
+			96516E901308D33B001E8F6E /* PBXTextBookmark */ = 96516E901308D33B001E8F6E /* PBXTextBookmark */;
+			96516E911308D33B001E8F6E /* PBXTextBookmark */ = 96516E911308D33B001E8F6E /* PBXTextBookmark */;
+			96516E931308D33B001E8F6E /* PBXTextBookmark */ = 96516E931308D33B001E8F6E /* PBXTextBookmark */;
+			96E3D477130A146F002FB70C /* PBXTextBookmark */ = 96E3D477130A146F002FB70C /* PBXTextBookmark */;
 		};
 		sourceControlManager = 96DE99BB1307BDB700588FD1 /* Source Control */;
 		userBuildSettings = {
@@ -98,16 +98,6 @@
 		rType = 0;
 		vrLen = 1014;
 		vrLoc = 0;
-	};
-	96516E921308D33B001E8F6E /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = DA83B71F116CEFC4006C2E27 /* Collector.m */;
-		name = "Collector.m: 11";
-		rLen = 0;
-		rLoc = 339;
-		rType = 0;
-		vrLen = 1764;
-		vrLoc = 1054;
 	};
 	96516E931308D33B001E8F6E /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -160,6 +150,16 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
+	96E3D477130A146F002FB70C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA83B71F116CEFC4006C2E27 /* Collector.m */;
+		name = "Collector.m: 84";
+		rLen = 58;
+		rLoc = 2282;
+		rType = 0;
+		vrLen = 1768;
+		vrLoc = 1050;
+	};
 	DA83B71E116CEFC4006C2E27 /* Collector.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {2184, 1072}}";
@@ -170,8 +170,8 @@
 	DA83B71F116CEFC4006C2E27 /* Collector.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {2184, 1802}}";
-			sepNavSelRange = "{339, 0}";
-			sepNavVisRange = "{1054, 1764}";
+			sepNavSelRange = "{2282, 58}";
+			sepNavVisRange = "{1050, 1768}";
 			sepNavWindowFrame = "{{15, 855}, {750, 558}}";
 		};
 	};

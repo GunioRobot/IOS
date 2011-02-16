@@ -1,0 +1,287 @@
+THappiness
+v7
+r0
+t319449367.641217
+cCheck dependencies
+cProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Info.plist" Happiness-Info.plist
+cCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib"
+cCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib"
+cProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-hhvjlpghsajvzrcptxemtmrfybhj/Happiness_Prefix.pch.gch Happiness_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness" normal i386
+cGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness"
+cTouch "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m
+c000000004CAE55ED00000000000009A2
+t1286493677
+s2466
+i"FaceView.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.h
+c000000004CABBF4D00000000000001F2
+t1286324045
+s498
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m
+c000000004CABBF4D0000000000000A9C
+t1286324045
+s2716
+i"HappinessAppDelegate.h"
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.h
+c000000004D5A31960000000000000212
+t1297756566
+s530
+i<UIKit/UIKit.h>
+i"FaceView.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m
+c000000004CAE584E00000000000004A9
+t1286494286
+s1193
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/FaceView.h
+c000000004CABC28500000000000001AD
+t1286324869
+s429
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib
+c000000004CAE586A00000000000053AC
+t1286494314
+s21420
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Happiness_Prefix.pch
+c000000004CABBF4D00000000000000BB
+t1286324045
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib
+c000000004CABBF4D0000000000004E41
+t1286324045
+s20033
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app
+t1297756567
+s238
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app.dSYM
+t1297756567
+s102
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness
+t1297756567
+s25260
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/HappinessViewController.nib
+t1297756566
+s1278
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Info.plist
+t1297756566
+s599
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/MainWindow.nib
+t1297756566
+s1127
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/PkgInfo
+t1297756566
+s8
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o
+t1297756567
+s43400
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/Happiness.LinkFileList
+c000000004D5A3196000000000000024F
+t1297756566
+s591
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o
+t1297756567
+s51752
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o
+t1297756567
+s45924
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o
+t1297756567
+s6328
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m
+c000000004CABBF4D0000000000000172
+t1286324045
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-hhvjlpghsajvzrcptxemtmrfybhj/Happiness_Prefix.pch.gch
+t1297756567
+s15453392
+
+NHappiness-Info.plist
+c000000004CABBF4D000000000000038D
+t1286324045
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319449366#319449366#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319449367.406062
+e319449367.475015
+r1
+xCompileC
+xbuild/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m319449367#319449367#0(0"0(0#0#72"/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m8599770464#2189"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-hhvjlpghsajvzrcptxemtmrfybhj/Happiness_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/../FaceView.m" -o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/FaceView.o"0#
+
+CCompileC build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319449367.404686
+e319449367.516749
+r1
+xCompileC
+xbuild/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m319449367#319449367#0(0"0(0#0#81"/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m8614403808#2210"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-hhvjlpghsajvzrcptxemtmrfybhj/Happiness_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessAppDelegate.m" -o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessAppDelegate.o"0#
+
+CCompileC build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319449367.405382
+e319449367.475319
+r1
+xCompileC
+xbuild/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m319449367#319449367#0(0"0(0#0#84"/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m8615616160#2216"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-hhvjlpghsajvzrcptxemtmrfybhj/Happiness_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Classes/HappinessViewController.m" -o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/HappinessViewController.o"0#
+
+CCompileC build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319449367.403895
+e319449367.447049
+r1
+xCompileC
+xbuild/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m319449367#319449367#0(0"0(0#0#57"/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m8614144800#2170"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-hhvjlpghsajvzrcptxemtmrfybhj/Happiness_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/main.m" -o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib"
+s319449366.431958
+e319449366.848677
+r1
+xCompileXIB
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib
+lSLF07#2@38"CompileXIB HappinessViewController.xib319449366#319449366#0(0"0(0#0#78"/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib8616068480#702"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/HappinessViewController.nib" "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib"
+s319449366.431288
+e319449366.838609
+r1
+xCompileXIB
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319449366#319449366#0(0"0(0#0#65"/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib8616288608#676"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/MainWindow.nib" "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness"
+s319449367.624846
+e319449367.639002
+r1
+xGenerateDSYMFile
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app.dSYM
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Happiness.app.dSYM build/Debug-iphonesimulator/Happiness.app/Happiness319449367#319449367#0(0"0(0#0#102"/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness8599342560#493"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness" -o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app.dSYM"0#
+
+CLd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness" normal i386
+s319449367.516859
+e319449367.624766
+r1
+xLd
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness
+xnormal
+xi386
+lSLF07#2@107"Link /Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness319449367#319449367#0(0"0(0#0#0"8616792576#1042"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator" "-F/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator" -filelist "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Objects-normal/i386/Happiness.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Happiness"0#
+
+CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Info.plist" Happiness-Info.plist
+s319449366.424455
+e319449366.431222
+r1
+xProcessInfoPlistFile
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Info.plist
+xHappiness-Info.plist
+lSLF07#2@28"Process Happiness-Info.plist319449366#319449366#0(0"0(0#0#71"/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Happiness-Info.plist8100055327176811520#589"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Happiness-Info.plist -genpkginfo "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app/Info.plist"0#
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-hhvjlpghsajvzrcptxemtmrfybhj/Happiness_Prefix.pch.gch Happiness_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319449366.848927
+e319449367.403819
+r1
+xProcessPCH
+x/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-hhvjlpghsajvzrcptxemtmrfybhj/Happiness_Prefix.pch.gch
+xHappiness_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Happiness_Prefix.pch319449366#319449367#0(0"0(0#0#71"/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Happiness_Prefix.pch8316010444492535808#2046"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/Happiness-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Happiness.build/Debug-iphonesimulator/Happiness.build/DerivedSources" -c "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/Happiness_Prefix.pch" -o /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Happiness_Prefix-hhvjlpghsajvzrcptxemtmrfybhj/Happiness_Prefix.pch.gch0#
+
+CTouch "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app"
+s319449367.639071
+e319449367.641192
+r1
+xTouch
+x/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app
+lSLF07#2@98"Touch /Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app319449367#319449367#0(0"0(0#0#0"8614547360#370"    cd "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug-iphonesimulator/Happiness.app"0#
+

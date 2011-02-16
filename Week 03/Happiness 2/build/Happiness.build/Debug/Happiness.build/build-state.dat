@@ -1,0 +1,51 @@
+THappiness
+v7
+r1
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib
+c000000004CAE586A00000000000053AC
+t1286494314
+s21420
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib
+c000000004CABBF4D0000000000004E41
+t1286324045
+s20033
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug/Happiness.app
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug/Happiness.app/Contents/Info.plist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug/Happiness.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug/Happiness.app/Contents/Resources/HappinessViewController.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug/Happiness.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NHappiness-Info.plist
+c000000004CABBF4D000000000000038D
+t1286324045
+s909
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/HappinessViewController.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug/Happiness.app/Contents/Info.plist" Happiness-Info.plist
+r0
+
+CTouch "/Users/work/Sites/Learning/IOS/Week 03/Happiness 2/build/Debug/Happiness.app"
+r0
+

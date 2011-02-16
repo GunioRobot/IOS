@@ -329,15 +329,15 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>96E3D44E13090B61002FB70C</string>
+										<string>96E3D47B130A146F002FB70C</string>
 										<key>history</key>
 										<array>
 											<string>96E3D3401308E073002FB70C</string>
 											<string>96E3D3411308E073002FB70C</string>
 											<string>96E3D3601308E633002FB70C</string>
 											<string>96E3D44A13090B29002FB70C</string>
-											<string>96E3D44B13090B29002FB70C</string>
-											<string>96E3D44C13090B29002FB70C</string>
+											<string>96E3D46D1309462B002FB70C</string>
+											<string>96E3D46E1309462B002FB70C</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -349,14 +349,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {2255, 1212}}</string>
+								<string>{{0, 0}, {2255, 1113}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 59 2560 1359 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>1212pt</string>
+							<string>1113pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -369,14 +369,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 1217}, {2255, 101}}</string>
+								<string>{{0, 1118}, {2255, 200}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 59 2560 1359 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>101pt</string>
+							<string>200pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -537,9 +537,9 @@
 	<array>
 		<string>96E3D3841308E836002FB70C</string>
 		<string>96E3D3851308E836002FB70C</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>96AB670E130408470081191D</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/work/Sites/Learning/IOS/Week 02/Calculator/Calculator.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -635,7 +635,7 @@
 			<key>WindowToolGUID</key>
 			<string>96AB670E130408470081191D</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -924,7 +924,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>Identifier</key>

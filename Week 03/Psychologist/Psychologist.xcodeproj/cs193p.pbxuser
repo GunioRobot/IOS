@@ -1,0 +1,231 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PsychologistAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 389}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PsychologistAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1246}}";
+			sepNavSelRange = "{713, 0}";
+			sepNavVisRange = "{845, 1450}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Psychologist */ = {
+		activeExec = 0;
+		executables = (
+			ECDFC158125E98CB003F1A60 /* Psychologist */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ECDFC158125E98CB003F1A60 /* Psychologist */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Psychologist */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Psychologist */,
+		);
+		codeSenseManager = ECDFC16E125E98CF003F1A60 /* Code sense */;
+		executables = (
+			ECDFC158125E98CB003F1A60 /* Psychologist */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					658,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308207176;
+			PBXWorkspaceStateSaveDate = 308207176;
+		};
+		perUserProjectItems = {
+			EC975DF4125EDE8500D64480 /* PBXTextBookmark */ = EC975DF4125EDE8500D64480 /* PBXTextBookmark */;
+			EC975DF5125EDE8500D64480 /* PBXTextBookmark */ = EC975DF5125EDE8500D64480 /* PBXTextBookmark */;
+			EC975DF6125EDE8500D64480 /* PBXTextBookmark */ = EC975DF6125EDE8500D64480 /* PBXTextBookmark */;
+			EC975DF7125EDE8500D64480 /* PBXTextBookmark */ = EC975DF7125EDE8500D64480 /* PBXTextBookmark */;
+			EC975DF8125EDE8500D64480 /* PBXTextBookmark */ = EC975DF8125EDE8500D64480 /* PBXTextBookmark */;
+			ECDFC184125E99A4003F1A60 /* PBXTextBookmark */ = ECDFC184125E99A4003F1A60 /* PBXTextBookmark */;
+			ECDFC19B125E9C27003F1A60 /* PBXTextBookmark */ = ECDFC19B125E9C27003F1A60 /* PBXTextBookmark */;
+			ECDFC19C125E9C27003F1A60 /* PBXTextBookmark */ = ECDFC19C125E9C27003F1A60 /* PBXTextBookmark */;
+		};
+		sourceControlManager = ECDFC16D125E98CF003F1A60 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EC975DF4125EDE8500D64480 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC17E125E9993003F1A60 /* PsychologistViewController.m */;
+		name = "PsychologistViewController.m: 28";
+		rLen = 0;
+		rLoc = 640;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 242;
+	};
+	EC975DF5125EDE8500D64480 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC17D125E9993003F1A60 /* PsychologistViewController.h */;
+		name = "PsychologistViewController.h: 16";
+		rLen = 54;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	EC975DF6125EDE8500D64480 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC175125E9943003F1A60 /* FaceView.m */;
+		name = "FaceView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 716;
+		vrLoc = 1750;
+	};
+	EC975DF7125EDE8500D64480 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC172125E9932003F1A60 /* HappinessViewController.m */;
+		name = "HappinessViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 374;
+		vrLoc = 819;
+	};
+	EC975DF8125EDE8500D64480 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PsychologistAppDelegate.m */;
+		name = "PsychologistAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 713;
+		rType = 0;
+		vrLen = 1450;
+		vrLoc = 845;
+	};
+	ECDFC158125E98CB003F1A60 /* Psychologist */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Psychologist;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ECDFC16D125E98CF003F1A60 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ECDFC16E125E98CF003F1A60 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ECDFC171125E9932003F1A60 /* HappinessViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 392}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 529}";
+		};
+	};
+	ECDFC172125E9932003F1A60 /* HappinessViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 994}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{819, 374}";
+		};
+	};
+	ECDFC175125E9943003F1A60 /* FaceView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 1316}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1750, 716}";
+		};
+	};
+	ECDFC17D125E9993003F1A60 /* PsychologistViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 384}}";
+			sepNavSelRange = "{254, 54}";
+			sepNavVisRange = "{0, 314}";
+		};
+	};
+	ECDFC17E125E9993003F1A60 /* PsychologistViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 616}}";
+			sepNavSelRange = "{640, 0}";
+			sepNavVisRange = "{242, 524}";
+		};
+	};
+	ECDFC184125E99A4003F1A60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC171125E9932003F1A60 /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 529;
+		vrLoc = 0;
+	};
+	ECDFC19B125E9C27003F1A60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PsychologistAppDelegate.h */;
+		name = "PsychologistAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	ECDFC19C125E9C27003F1A60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PsychologistAppDelegate.m */;
+		name = "PsychologistAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 713;
+		rType = 0;
+		vrLen = 1001;
+		vrLoc = 199;
+	};
+}
