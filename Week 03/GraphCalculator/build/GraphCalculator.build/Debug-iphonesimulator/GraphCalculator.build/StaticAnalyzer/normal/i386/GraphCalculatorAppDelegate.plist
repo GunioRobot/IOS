@@ -94,12 +94,12 @@
         <key>end</key>
          <array>
           <dict>
-           <key>line</key><integer>27</integer>
+           <key>line</key><integer>28</integer>
            <key>col</key><integer>5</integer>
            <key>file</key><integer>0</integer>
           </dict>
           <dict>
-           <key>line</key><integer>27</integer>
+           <key>line</key><integer>28</integer>
            <key>col</key><integer>5</integer>
            <key>file</key><integer>0</integer>
           </dict>
@@ -111,7 +111,7 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>27</integer>
+      <key>line</key><integer>28</integer>
       <key>col</key><integer>5</integer>
       <key>file</key><integer>0</integer>
      </dict>
@@ -119,12 +119,12 @@
      <array>
        <array>
         <dict>
-         <key>line</key><integer>27</integer>
+         <key>line</key><integer>28</integer>
          <key>col</key><integer>5</integer>
          <key>file</key><integer>0</integer>
         </dict>
         <dict>
-         <key>line</key><integer>27</integer>
+         <key>line</key><integer>28</integer>
          <key>col</key><integer>5</integer>
          <key>file</key><integer>0</integer>
         </dict>
@@ -141,7 +141,7 @@
    <key>type</key><string>Leak</string>
   <key>location</key>
   <dict>
-   <key>line</key><integer>27</integer>
+   <key>line</key><integer>28</integer>
    <key>col</key><integer>5</integer>
    <key>file</key><integer>0</integer>
   </dict>

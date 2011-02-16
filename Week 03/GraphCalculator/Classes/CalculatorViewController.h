@@ -11,16 +11,19 @@
 
 @interface CalculatorViewController : UIViewController 
 {
-	IBOutlet UILabel *display;	
+	UILabel *display;	
 	BOOL userIsInTheMiddleOfTypingANumber;
 	CalculatorBrain *brain;
 }
 
 @property BOOL userIsInTheMiddleOfTypingANumber;
+@property (retain) IBOutlet UILabel *display;
 
 - (IBAction)digitPressed:(UIButton *)sender;
 - (IBAction)variablePressed:(UIButton *)sender;
 - (IBAction)operationPressed:(UIButton *)sender;
-- (IBAction)solvePressed;
+- (IBAction)graphPressed;
+
+- (void)releaseOutlets;
 @end
 

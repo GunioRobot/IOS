@@ -7,6 +7,8 @@
 //
 
 #import "CalculatorViewController.h"
+#import "GraphViewController.h"
+
 
 @interface CalculatorViewController()
 	@property (readonly) CalculatorBrain *brain;
@@ -14,6 +16,7 @@
 
 @implementation CalculatorViewController
 @synthesize userIsInTheMiddleOfTypingANumber;
+@synthesize display;
 
 -(CalculatorBrain *)brain //Getter for brain
 {
@@ -28,17 +31,17 @@
 	if(self.userIsInTheMiddleOfTypingANumber)
 	{
 		if([digit isEqual:(@".")]){
-			NSRange range = [display.text rangeOfString: @"."];
+			NSRange range = [self.display.text rangeOfString: @"."];
 			if(range.location != NSNotFound) return;
 		}
-		display.text = [display.text stringByAppendingString:digit];
+		self.display.text = [self.display.text stringByAppendingString:digit];
 	}
 	else 
 	{
 		if([digit isEqual:(@".")]){
 			digit = [@"0" stringByAppendingString:digit];
 		}
-		display.text = digit;
+		self.display.text = digit;
 		userIsInTheMiddleOfTypingANumber = YES;
 	}
 						  
@@ -50,14 +53,14 @@
 	{
 		[self.brain setVariableAsOperand:sender.titleLabel.text];
 	}
-	display.text = [CalculatorBrain descriptionOfExpression:self.brain.expression];
+	self.display.text = [CalculatorBrain descriptionOfExpression:self.brain.expression];
 }
 
 - (IBAction)operationPressed:(UIButton *)sender
 {
 	if(self.userIsInTheMiddleOfTypingANumber)
 	{
-		self.brain.operand = [display.text doubleValue];
+		self.brain.operand = [self.display.text doubleValue];
 		self.userIsInTheMiddleOfTypingANumber = NO;
 	}
 	
@@ -66,25 +69,36 @@
 	
 	if([[CalculatorBrain variablesInExpression:self.brain.expression] count])
 	{
-		display.text = [CalculatorBrain descriptionOfExpression:self.brain.expression];
+		self.display.text = [CalculatorBrain descriptionOfExpression:self.brain.expression];
 	}
 	else {
-		display.text = [NSString stringWithFormat:@"%g", self.brain.operand];
+		self.display.text = [NSString stringWithFormat:@"%g", self.brain.operand];
 	}
 }
 
-- (IBAction)solvePressed
+- (IBAction)graphPressed
 {
-	//[CalculatorBrain propertyListForExpression: self.brain.expression];
-	//NSLog(@"Description ofexpression: %@", [CalculatorBrain descriptionOfExpression:self.brain.expression]);
-	//NSLog(@"Variables in expression: %@", [CalculatorBrain variablesInExpression:self.brain.expression]);
-	NSDictionary *variables = [NSDictionary dictionaryWithObjectsAndKeys:[NSNumber numberWithDouble:5],@"x", [NSNumber numberWithDouble:7],@"y",[NSNumber numberWithDouble:9],@"z",nil];
-	display.text = [NSString stringWithFormat:@"%g", [CalculatorBrain evaluateExpression:self.brain.expression usingVariableValues:variables]];
+	[self.brain performOperation:@"="];
+	GraphViewController *gvc = [[GraphViewController alloc] init];
+	gvc.title = [CalculatorBrain descriptionOfExpression:self.brain.expression];
+	gvc.expression = self.brain.expression;
+	[self.navigationController pushViewController:gvc animated:YES];
+	[gvc release]; 
 }
 
+- (void)releaseOutlets
+{
+	self.display = nil;
+}
+
+- (void)viewDidUnload
+{
+	[self releaseOutlets];
+}
 
 - (void)dealloc
 {
+	[self releaseOutlets];
 	[brain release];
 	[super dealloc];
 }

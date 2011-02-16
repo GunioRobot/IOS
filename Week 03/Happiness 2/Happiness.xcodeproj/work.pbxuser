@@ -1,5 +1,12 @@
 // !$*UTF8*$!
 {
+	1D3623250D0F684500981E51 /* HappinessAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1513}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{553, 2163}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* Happiness */ = {
 		activeExec = 0;
 		executables = (
@@ -8,16 +15,16 @@
 	};
 	28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2203, 1100}}";
+			sepNavIntBoundsRect = "{{0, 0}, {2137, 1097}}";
 			sepNavSelRange = "{522, 0}";
 			sepNavVisRange = "{0, 530}";
 		};
 	};
 	28D7ACF70DDB3853001CB0EB /* HappinessViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2203, 1207}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{156, 1037}";
+			sepNavIntBoundsRect = "{{0, 0}, {2137, 1207}}";
+			sepNavSelRange = "{290, 0}";
+			sepNavVisRange = "{95, 1098}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -36,7 +43,7 @@
 					20,
 					1959,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -51,15 +58,16 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 319444630;
-			PBXWorkspaceStateSaveDate = 319444630;
+			PBXPerProjectTemplateStateSaveDate = 319525836;
+			PBXWorkspaceStateSaveDate = 319525836;
 		};
 		perUserProjectItems = {
-			963491BD130A69000002AA55 /* PBXTextBookmark */ = 963491BD130A69000002AA55 /* PBXTextBookmark */;
-			963491BE130A69000002AA55 /* PBXTextBookmark */ = 963491BE130A69000002AA55 /* PBXTextBookmark */;
-			963491BF130A69000002AA55 /* PBXTextBookmark */ = 963491BF130A69000002AA55 /* PBXTextBookmark */;
 			963491CE130AA17D0002AA55 /* PBXTextBookmark */ = 963491CE130AA17D0002AA55 /* PBXTextBookmark */;
-			963491CF130AA17D0002AA55 /* PBXTextBookmark */ = 963491CF130AA17D0002AA55 /* PBXTextBookmark */;
+			96C2A574130BA68100B81D62 /* PBXTextBookmark */ = 96C2A574130BA68100B81D62 /* PBXTextBookmark */;
+			96C2A575130BA68100B81D62 /* PBXTextBookmark */ = 96C2A575130BA68100B81D62 /* PBXTextBookmark */;
+			96C2A576130BA68100B81D62 /* PBXTextBookmark */ = 96C2A576130BA68100B81D62 /* PBXTextBookmark */;
+			96C2A577130BA68100B81D62 /* PBXTextBookmark */ = 96C2A577130BA68100B81D62 /* PBXTextBookmark */;
+			96C2A578130BA68100B81D62 /* PBXTextBookmark */ = 96C2A578130BA68100B81D62 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 963491B9130A56AB0002AA55 /* Source Control */;
 		userBuildSettings = {
@@ -107,36 +115,6 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	963491BD130A69000002AA55 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */;
-		name = "HappinessViewController.h: 24";
-		rLen = 0;
-		rLoc = 522;
-		rType = 0;
-		vrLen = 530;
-		vrLoc = 0;
-	};
-	963491BE130A69000002AA55 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF70DDB3853001CB0EB /* HappinessViewController.m */;
-		name = "HappinessViewController.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1037;
-		vrLoc = 156;
-	};
-	963491BF130A69000002AA55 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = EC8530DA125BF7070000811C /* FaceView.m */;
-		name = "FaceView.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1718;
-		vrLoc = 0;
-	};
 	963491CE130AA17D0002AA55 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = EC8530D9125BF7070000811C /* FaceView.h */;
@@ -147,15 +125,55 @@
 		vrLen = 429;
 		vrLoc = 0;
 	};
-	963491CF130AA17D0002AA55 /* PBXTextBookmark */ = {
+	96C2A574130BA68100B81D62 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = EC8530DA125BF7070000811C /* FaceView.m */;
 		name = "FaceView.m: 53";
 		rLen = 0;
 		rLoc = 1296;
 		rType = 0;
-		vrLen = 1829;
-		vrLoc = 637;
+		vrLen = 1718;
+		vrLoc = 0;
+	};
+	96C2A575130BA68100B81D62 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HappinessAppDelegate.m */;
+		name = "HappinessAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2163;
+		vrLoc = 553;
+	};
+	96C2A576130BA68100B81D62 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HappinessViewController.m */;
+		name = "HappinessViewController.m: 14";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 1098;
+		vrLoc = 95;
+	};
+	96C2A577130BA68100B81D62 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 24";
+		rLen = 0;
+		rLoc = 522;
+		rType = 0;
+		vrLen = 530;
+		vrLoc = 0;
+	};
+	96C2A578130BA68100B81D62 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 24";
+		rLen = 0;
+		rLoc = 522;
+		rType = 0;
+		vrLen = 530;
+		vrLoc = 0;
 	};
 	EC8530D9125BF7070000811C /* FaceView.h */ = {
 		uiCtxt = {
@@ -168,7 +186,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {2137, 1598}}";
 			sepNavSelRange = "{1296, 0}";
-			sepNavVisRange = "{637, 1829}";
+			sepNavVisRange = "{0, 1718}";
 		};
 	};
 }

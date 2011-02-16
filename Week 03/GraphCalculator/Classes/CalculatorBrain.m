@@ -28,8 +28,8 @@
 -(void) addTermToExpression:(id)term
 {
 	[self.internalExpression addObject:term];
-	NSLog(@"Term Added: %@", [self.internalExpression lastObject]);
-	NSLog(@"expression = %@", internalExpression);
+	//NSLog(@"Term Added: %@", [self.internalExpression lastObject]);
+	//NSLog(@"expression = %@", internalExpression);
 	//NSLog(@"Current Expression: %@", self.internalExpression); 
 }
 
@@ -113,7 +113,7 @@
 	{
 		self.memory += operand;
 	}
-	else if ([operation isEqual:@"C"])
+	else if ([operation isEqual:@"Clear"])
 	{
 		operand = 0;
 		self.memory = 0;
@@ -144,12 +144,12 @@
 		}
 		else if([obj isKindOfClass:[NSString class]])
 		{
-			NSLog(@"Current term: %@", obj);
+			//NSLog(@"Current term: %@", obj);
 			if(([obj rangeOfString:VARIABLE_PREFIX].location == 0) && ([obj length] > [VARIABLE_PREFIX length]))
 			 {
 				 // Term is a variable, perform the substitution. 
 				 double sub = [[variables objectForKey:[obj substringFromIndex:1]] doubleValue];
-				 NSLog(@"Substituting %g for %@", sub, [obj substringFromIndex:1]);
+				// NSLog(@"Substituting %g for %@", sub, [obj substringFromIndex:1]);
 				 [brain setOperand: sub];
 			 }
 			else {
@@ -166,7 +166,7 @@
 	}
 	
 	double result = brain.operand;
-	NSLog(@"Result = %g", result);
+	//NSLog(@"Result = %g", result);
 	[brain release];
 	return result;
 }
@@ -193,6 +193,7 @@
 	NSMutableString	 *description = [NSMutableString string];
 	for(id obj in anExpression)
 	{
+		[description appendString:@" "];
 		if([obj isKindOfClass:[NSString class]] && ([obj rangeOfString:VARIABLE_PREFIX].location == 0) && ([obj length] > [VARIABLE_PREFIX length]))
 		{
 			[description appendString:[obj substringFromIndex:1]];
@@ -201,6 +202,7 @@
 			[description appendFormat:@"%@", obj];
 		}
 	}
+
 	return description;
 }
 
