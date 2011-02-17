@@ -11,9 +11,10 @@
 
 @interface CalculatorViewController : UIViewController 
 {
-	UILabel *display;	
 	BOOL userIsInTheMiddleOfTypingANumber;
 	CalculatorBrain *brain;
+	
+	IBOutlet UILabel *display;
 }
 
 @property BOOL userIsInTheMiddleOfTypingANumber;

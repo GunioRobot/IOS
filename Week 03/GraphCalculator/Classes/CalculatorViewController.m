@@ -78,6 +78,7 @@
 
 - (IBAction)graphPressed
 {
+	//Finish off the expression, init the GraphViewController with the current expression and push it on the stack
 	[self.brain performOperation:@"="];
 	GraphViewController *gvc = [[GraphViewController alloc] init];
 	gvc.title = [CalculatorBrain descriptionOfExpression:self.brain.expression];

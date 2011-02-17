@@ -81,20 +81,20 @@
     // Release any cached data, images, etc. that aren't in use.
 }
 
-- (void)releaseProperties
-{
-	self.expression = nil;
+- (void)releaseOutlets
+{	
 	self.graphView = nil;
 }
 
 - (void)viewDidUnload
 {
-	[self releaseProperties];
+	[self releaseOutlets];
 }
 
 - (void)dealloc
 {
-	[self releaseProperties];
+	[self releaseOutlets];
+	self.expression = nil;
 	[super dealloc];
 }
 

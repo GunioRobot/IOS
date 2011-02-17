@@ -216,7 +216,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>9657D9DF130BE91E005E5810</string>
+						<string>9657D9F1130CA201005E5810</string>
 						<key>history</key>
 						<array>
 							<string>9657D860130BCD4D005E5810</string>
@@ -256,7 +256,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>9657D9E0130BE91E005E5810</string>
+						<string>9657D9F2130CA201005E5810</string>
 						<key>history</key>
 						<array>
 							<string>9657D83E130BC0D7005E5810</string>
@@ -296,7 +296,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>9657D9E1130BE91E005E5810</string>
+						<string>9657D9F3130CA201005E5810</string>
 						<key>history</key>
 						<array>
 							<string>96C2A3FD130B911A00B81D62</string>
@@ -351,6 +351,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -394,7 +396,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>11</integer>
+									<integer>6</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -430,14 +432,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>GraphViewController.m</string>
+								<string>CalculatorViewController.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -445,11 +445,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>GraphViewController.m</string>
+										<string>CalculatorViewController.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9657D9DE130BE91E005E5810</string>
+										<string>9657D9F0130CA201005E5810</string>
 										<key>history</key>
 										<array>
 											<string>96C7DB01130BBEFF00F39652</string>
@@ -457,15 +457,15 @@
 											<string>9657D92B130BD92D005E5810</string>
 											<string>9657D9AD130BE588005E5810</string>
 											<string>9657D9C1130BE7CE005E5810</string>
-											<string>9657D9C6130BE7CE005E5810</string>
 											<string>9657D9C7130BE7CE005E5810</string>
-											<string>9657D9C8130BE7CE005E5810</string>
 											<string>9657D9D8130BE91E005E5810</string>
-											<string>9657D9D9130BE91E005E5810</string>
 											<string>9657D9DA130BE91E005E5810</string>
 											<string>9657D9DB130BE91E005E5810</string>
 											<string>9657D9DC130BE91E005E5810</string>
-											<string>9657D9DD130BE91E005E5810</string>
+											<string>9657D9E6130CA1A7005E5810</string>
+											<string>9657D9E7130CA1A7005E5810</string>
+											<string>9657D9EE130CA201005E5810</string>
+											<string>9657D9EF130CA201005E5810</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
