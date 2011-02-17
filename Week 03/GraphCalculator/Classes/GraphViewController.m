@@ -43,10 +43,6 @@
 			(interfaceOrientation == UIInterfaceOrientationLandscapeRight);
 }
 
-- (void) willRotateToInterfaceOrientation:(UIInterfaceOrientation)toInterfaceOrientation duration:(NSTimeInterval)duration
-{
-	[self.graphView setNeedsDisplay];
-}
 
 - (int)scaleForGraphView:(GraphView *)requestor 
 {

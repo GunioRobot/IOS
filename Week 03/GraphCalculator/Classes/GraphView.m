@@ -12,15 +12,27 @@
 @implementation GraphView
 @synthesize delegate;
 
+
+- (void)setup 
+{
+	self.contentMode = UIViewContentModeRedraw;
+}
+
+
 - (id)initWithFrame:(CGRect)frame {
     
     self = [super initWithFrame:frame];
     if (self) {
         // Initialization code.
+		[self setup];
     }
     return self;
 }
 
+- (void)awakeFromNib
+{
+	[self setup];
+}
 
 - (void)drawRect:(CGRect)rect {
 	CGPoint midPoint;

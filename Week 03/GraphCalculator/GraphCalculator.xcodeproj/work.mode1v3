@@ -216,10 +216,10 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>9657D9F1130CA201005E5810</string>
+						<string>9657DA26130D0A78005E5810</string>
 						<key>history</key>
 						<array>
-							<string>9657D860130BCD4D005E5810</string>
+							<string>9657DA04130D05E5005E5810</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -256,7 +256,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>9657D9F2130CA201005E5810</string>
+						<string>9657DA27130D0A78005E5810</string>
 						<key>history</key>
 						<array>
 							<string>9657D83E130BC0D7005E5810</string>
@@ -296,7 +296,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>9657D9F3130CA201005E5810</string>
+						<string>9657DA28130D0A78005E5810</string>
 						<key>history</key>
 						<array>
 							<string>96C2A3FD130B911A00B81D62</string>
@@ -351,8 +351,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -396,7 +394,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>6</integer>
+									<integer>11</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -432,12 +430,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>CalculatorViewController.h</string>
+								<string>GraphViewController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -445,27 +445,27 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>CalculatorViewController.h</string>
+										<string>GraphViewController.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9657D9F0130CA201005E5810</string>
+										<string>9657DA25130D0A78005E5810</string>
 										<key>history</key>
 										<array>
 											<string>96C7DB01130BBEFF00F39652</string>
 											<string>9657D915130BD757005E5810</string>
 											<string>9657D92B130BD92D005E5810</string>
-											<string>9657D9AD130BE588005E5810</string>
-											<string>9657D9C1130BE7CE005E5810</string>
 											<string>9657D9C7130BE7CE005E5810</string>
 											<string>9657D9D8130BE91E005E5810</string>
-											<string>9657D9DA130BE91E005E5810</string>
-											<string>9657D9DB130BE91E005E5810</string>
-											<string>9657D9DC130BE91E005E5810</string>
-											<string>9657D9E6130CA1A7005E5810</string>
 											<string>9657D9E7130CA1A7005E5810</string>
-											<string>9657D9EE130CA201005E5810</string>
-											<string>9657D9EF130CA201005E5810</string>
+											<string>9657D9FB130D05E5005E5810</string>
+											<string>9657D9FC130D05E5005E5810</string>
+											<string>9657D9FD130D05E5005E5810</string>
+											<string>9657D9FE130D05E5005E5810</string>
+											<string>9657D9FF130D05E5005E5810</string>
+											<string>9657DA01130D05E5005E5810</string>
+											<string>9657DA24130D0A78005E5810</string>
+											<string>9657DA0E130D094E005E5810</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -666,8 +666,8 @@
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>96C2A414130B933000B81D62</string>
 		<string>9657D844130BC0E4005E5810</string>
-		<string>9657D866130BCD56005E5810</string>
 		<string>96C2A321130B664000B81D62</string>
+		<string>9657D866130BCD56005E5810</string>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/work/Sites/Learning/IOS/Week 03/GraphCalculator/GraphCalculator.xcodeproj</string>
 	</array>
@@ -1018,18 +1018,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1136, 870}}</string>
+								<string>{{0, 0}, {1680, 953}}</string>
 								<key>RubberWindowFrame</key>
-								<string>-1272 137 1136 911 -1680 0 1680 1050 </string>
+								<string>-1680 56 1680 994 -1680 0 1680 1050 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXDebugCLIModule</string>
 							<key>Proportion</key>
-							<string>870pt</string>
+							<string>953pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>870pt</string>
+					<string>953pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -1049,7 +1049,7 @@
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.consoleV3</string>
 			<key>WindowString</key>
-			<string>-1272 137 1136 911 -1680 0 1680 1050 </string>
+			<string>-1680 56 1680 994 -1680 0 1680 1050 </string>
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
