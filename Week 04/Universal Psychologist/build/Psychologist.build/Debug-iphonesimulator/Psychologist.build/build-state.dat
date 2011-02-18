@@ -1,7 +1,7 @@
 TPsychologist
 v7
 r0
-t319685087.989421
+t319695866.719679
 cCheck dependencies
 cProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Info.plist" Psychologist-Info.plist
 cCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib"
@@ -212,7 +212,7 @@ s974
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies319685087#319685087#0(0"0(0#1#0"8630177248#0"0#
+lSLF07#2@18"Check dependencies319695866#319695866#0(0"0(0#1#0"8631624448#0"0#
 
 CCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/FaceView.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s319685077.108417

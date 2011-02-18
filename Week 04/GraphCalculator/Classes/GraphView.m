@@ -91,6 +91,15 @@
 	}
 }
 
+-(void)doubleTap:(UITapGestureRecognizer *)gesture
+{
+	if(gesture.state == UIGestureRecognizerStateRecognized)
+	{
+		self.origin = CGPointZero;
+	}
+}
+  
+  
 - (void)drawRect:(CGRect)rect {
 	[[UIColor blueColor] set] ;
     [AxesDrawer drawAxesInRect:self.bounds originAtPoint:self.origin scale:self.scale];
