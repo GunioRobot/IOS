@@ -11,7 +11,7 @@
 
 @implementation GraphView
 @synthesize delegate;
-@synthesize origin;
+@synthesize originOffset;
 
 - (void)setup 
 {
@@ -55,19 +55,20 @@
 	}	
 }
 
-- (CGPoint)origin
+-(CGPoint)origin
 {
-	if(origin.x == 0 && origin.y == 0)
-	{
-		origin.x = self.bounds.origin.x + self.bounds.size.width/2;
-		origin.y = self.bounds.origin.y + self.bounds.size.height/2;
-	}
-	return origin;
+	return CGPointMake(self.originOffset.x + (self.bounds.origin.x + self.bounds.size.width/2), self.originOffset.y + (self.bounds.origin.y + self.bounds.size.height/2));
+	//return CGPointMake((self.bounds.origin.x + self.bounds.size.width/2) + (self.originOffset.x * (self.bounds.origin.x + self.bounds.size.width/2)), 
+	//				   (self.bounds.origin.y + self.bounds.size.height/2) + self.originOffset.y * (self.bounds.origin.y + self.bounds.size.height/2));
 }
 
-- (void)setOrigin:(CGPoint)aPoint
+
+- (void)setOriginOffset:(CGPoint)offSet 
 {
-	origin = aPoint;
+	
+	//originOffset.x += (offSet.x/self.bounds.size.width);
+//	originOffset.y += (offSet.y/self.bounds.size.height);
+	originOffset = offSet;
 	[self setNeedsDisplay];
 }
 
@@ -86,7 +87,8 @@
 	if ((gesture.state == UIGestureRecognizerStateChanged) ||
 		(gesture.state == UIGestureRecognizerStateEnded)) {
 		CGPoint translation = [gesture translationInView:self];
-		self.origin = CGPointMake(self.origin.x + translation.x, self.origin.y + translation.y);
+		self.originOffset = CGPointMake(self.originOffset.x + translation.x, self.originOffset.y + translation.y);
+		//self.originOffset = translation;
 		[gesture setTranslation:CGPointZero inView:self];
 	}
 }
@@ -95,7 +97,7 @@
 {
 	if(gesture.state == UIGestureRecognizerStateRecognized)
 	{
-		self.origin = CGPointZero;
+		self.originOffset = CGPointZero;
 	}
 }
   

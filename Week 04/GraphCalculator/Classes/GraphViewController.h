@@ -20,7 +20,4 @@
 
 @property (retain) IBOutlet GraphView *graphView;
 
-- (IBAction)zoomIn:(UIButton *)sender; 
-- (IBAction)zoomOut:(UIButton *)sender; 
-
 @end

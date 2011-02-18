@@ -59,22 +59,64 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 319684484;
-			PBXWorkspaceStateSaveDate = 319684484;
+			PBXPerProjectTemplateStateSaveDate = 319698805;
+			PBXWorkspaceStateSaveDate = 319698805;
 		};
 		perUserProjectItems = {
-			9657DA7E130DFEB7005E5810 = 9657DA7E130DFEB7005E5810 /* PBXTextBookmark */;
-			9657DA7F130DFEB7005E5810 = 9657DA7F130DFEB7005E5810 /* PBXTextBookmark */;
-			9657DA80130DFEB7005E5810 = 9657DA80130DFEB7005E5810 /* PBXTextBookmark */;
-			9657DAC9130E01DB005E5810 /* PBXTextBookmark */ = 9657DAC9130E01DB005E5810 /* PBXTextBookmark */;
-			9657DACA130E01DB005E5810 /* PBXTextBookmark */ = 9657DACA130E01DB005E5810 /* PBXTextBookmark */;
-			9657DACB130E01DB005E5810 /* PBXTextBookmark */ = 9657DACB130E01DB005E5810 /* PBXTextBookmark */;
-			9657DACC130E01DB005E5810 /* PBXTextBookmark */ = 9657DACC130E01DB005E5810 /* PBXTextBookmark */;
-			9657DACD130E01DB005E5810 /* PBXTextBookmark */ = 9657DACD130E01DB005E5810 /* PBXTextBookmark */;
+			960D681D130E378600E17BF4 /* PBXTextBookmark */ = 960D681D130E378600E17BF4 /* PBXTextBookmark */;
+			960D681E130E378600E17BF4 /* PBXTextBookmark */ = 960D681E130E378600E17BF4 /* PBXTextBookmark */;
+			960D681F130E378600E17BF4 /* PBXTextBookmark */ = 960D681F130E378600E17BF4 /* PBXTextBookmark */;
+			960D6820130E378600E17BF4 /* PBXTextBookmark */ = 960D6820130E378600E17BF4 /* PBXTextBookmark */;
+			9657DAC9130E01DB005E5810 = 9657DAC9130E01DB005E5810 /* PBXTextBookmark */;
+			9657DACA130E01DB005E5810 = 9657DACA130E01DB005E5810 /* PBXTextBookmark */;
+			9657DB56130E349F005E5810 = 9657DB56130E349F005E5810 /* PBXTextBookmark */;
+			9657DB57130E349F005E5810 = 9657DB57130E349F005E5810 /* PBXTextBookmark */;
+			9657DB58130E349F005E5810 = 9657DB58130E349F005E5810 /* PBXTextBookmark */;
+			9657DB59130E349F005E5810 = 9657DB59130E349F005E5810 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9657DA45130D181F005E5810 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	960D681D130E378600E17BF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC175125E9943003F1A60 /* FaceView.m */;
+		name = "FaceView.m: 35";
+		rLen = 0;
+		rLoc = 557;
+		rType = 0;
+		vrLen = 904;
+		vrLoc = 436;
+	};
+	960D681E130E378600E17BF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC171125E9932003F1A60 /* HappinessViewController.h */;
+		name = "HappinessViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 560;
+		vrLoc = 0;
+	};
+	960D681F130E378600E17BF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC172125E9932003F1A60 /* HappinessViewController.m */;
+		name = "HappinessViewController.m: 30";
+		rLen = 0;
+		rLoc = 610;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 292;
+	};
+	960D6820130E378600E17BF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC172125E9932003F1A60 /* HappinessViewController.m */;
+		name = "HappinessViewController.m: 30";
+		rLen = 0;
+		rLoc = 610;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 292;
 	};
 	9657DA39130D1814005E5810 /* Psychologist */ = {
 		isa = PBXExecutable;
@@ -92,6 +134,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -117,36 +160,6 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	9657DA7E130DFEB7005E5810 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ECDFC175125E9943003F1A60 /* FaceView.m */;
-		name = "FaceView.m: 47";
-		rLen = 122;
-		rLoc = 712;
-		rType = 0;
-		vrLen = 780;
-		vrLoc = 280;
-	};
-	9657DA7F130DFEB7005E5810 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ECDFC174125E9943003F1A60 /* FaceView.h */;
-		name = "FaceView.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 470;
-		vrLoc = 0;
-	};
-	9657DA80130DFEB7005E5810 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ECDFC174125E9943003F1A60 /* FaceView.h */;
-		name = "FaceView.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 470;
-		vrLoc = 0;
-	};
 	9657DAC9130E01DB005E5810 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = ECDFC171125E9932003F1A60 /* HappinessViewController.h */;
@@ -167,7 +180,27 @@
 		vrLen = 470;
 		vrLoc = 0;
 	};
-	9657DACB130E01DB005E5810 /* PBXTextBookmark */ = {
+	9657DB56130E349F005E5810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC172125E9932003F1A60 /* HappinessViewController.m */;
+		name = "HappinessViewController.m: 30";
+		rLen = 0;
+		rLoc = 610;
+		rType = 0;
+		vrLen = 1097;
+		vrLoc = 292;
+	};
+	9657DB57130E349F005E5810 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDFC17D125E9993003F1A60 /* PsychologistViewController.h */;
+		name = "PsychologistViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	9657DB58130E349F005E5810 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = ECDFC175125E9943003F1A60 /* FaceView.m */;
 		name = "FaceView.m: 47";
@@ -177,38 +210,28 @@
 		vrLen = 904;
 		vrLoc = 436;
 	};
-	9657DACC130E01DB005E5810 /* PBXTextBookmark */ = {
+	9657DB59130E349F005E5810 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = ECDFC172125E9932003F1A60 /* HappinessViewController.m */;
-		name = "HappinessViewController.m: 1";
+		fRef = ECDFC175125E9943003F1A60 /* FaceView.m */;
+		name = "FaceView.m: 35";
 		rLen = 0;
-		rLoc = 0;
+		rLoc = 557;
 		rType = 0;
-		vrLen = 1185;
-		vrLoc = 613;
-	};
-	9657DACD130E01DB005E5810 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ECDFC172125E9932003F1A60 /* HappinessViewController.m */;
-		name = "HappinessViewController.m: 21";
-		rLen = 0;
-		rLoc = 384;
-		rType = 0;
-		vrLen = 982;
-		vrLoc = 292;
+		vrLen = 904;
+		vrLoc = 436;
 	};
 	ECDFC171125E9932003F1A60 /* HappinessViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1324, 758}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1324, 754}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 560}";
 		};
 	};
 	ECDFC172125E9932003F1A60 /* HappinessViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1324, 1513}}";
-			sepNavSelRange = "{384, 0}";
-			sepNavVisRange = "{292, 982}";
+			sepNavIntBoundsRect = "{{0, 0}, {1324, 1547}}";
+			sepNavSelRange = "{610, 0}";
+			sepNavVisRange = "{292, 1043}";
 		};
 	};
 	ECDFC174125E9943003F1A60 /* FaceView.h */ = {
@@ -221,8 +244,16 @@
 	ECDFC175125E9943003F1A60 /* FaceView.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1324, 2601}}";
-			sepNavSelRange = "{751, 0}";
+			sepNavSelRange = "{557, 0}";
 			sepNavVisRange = "{436, 904}";
+			sepNavWindowFrame = "{{38, 834}, {750, 558}}";
+		};
+	};
+	ECDFC17D125E9993003F1A60 /* PsychologistViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1324, 758}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 472}";
 		};
 	};
 }

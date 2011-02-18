@@ -25,6 +25,24 @@
     return self;
 }
 
+- (GraphView *) graphView { 
+	if(!graphView)
+	{
+		graphView = [[GraphView alloc] initWithFrame:[self.view bounds]];  
+	}
+	return graphView; 
+} 
+ 
+- (void)loadView { 
+	[super loadView];
+	
+	self.graphView.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
+	self.graphView.backgroundColor = [UIColor whiteColor];
+
+    [self.view addSubview:self.graphView];
+} 
+
+
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {	
     [super viewDidLoad];
@@ -48,25 +66,12 @@
 // Override to allow orientations other than the default portrait orientation.
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
     // Return YES for supported orientations.
-	return (interfaceOrientation == UIInterfaceOrientationPortrait) ||
-			(interfaceOrientation == UIInterfaceOrientationPortraitUpsideDown) ||
-			(interfaceOrientation == UIInterfaceOrientationLandscapeLeft) ||
-			(interfaceOrientation == UIInterfaceOrientationLandscapeRight);
+	return YES;
 }
 
 - (float)yForXvalue:(float)xValue forGraphView:(GraphView *)requestor
 {
 	return [CalculatorBrain evaluateExpression:self.expression usingVariableValues:[NSDictionary dictionaryWithObjectsAndKeys:[NSNumber numberWithDouble:xValue],@"x", nil]];
-}
-
-- (IBAction)zoomIn:(UIButton *)sender
-{
-	self.graphView.scale += GRAPH_SCALE_STEP;
-}
-
-- (IBAction)zoomOut:(UIButton *)sender
-{
-	self.graphView.scale -= GRAPH_SCALE_STEP;
 }
 
 - (void)didReceiveMemoryWarning {
