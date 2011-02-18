@@ -29,6 +29,14 @@
 - (void)viewDidLoad {	
     [super viewDidLoad];
 	self.graphView.delegate = self;	
+	
+	UIGestureRecognizer *pinchgr = [[UIPinchGestureRecognizer alloc] initWithTarget:self.graphView action:@selector(pinch:)];
+	[self.graphView addGestureRecognizer:pinchgr];
+	[pinchgr release];	
+
+	UIGestureRecognizer *pangr = [[UIPanGestureRecognizer alloc] initWithTarget:self.graphView action:@selector(pan:)];
+	[self.graphView addGestureRecognizer:pangr];
+	[pangr release];
 }
 
 

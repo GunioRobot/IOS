@@ -1,0 +1,80 @@
+TPsychologist
+v7
+r1
+cCheck dependencies
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib
+c000000004CB798F20000000000005411
+t1287100658
+s21521
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib
+c000000004CAE614A0000000000002121
+t1286496586
+s8481
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib
+c000000004CB7975D00000000000061D1
+t1287100253
+s25041
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib
+c000000004CB79DFF0000000000002406
+t1287101951
+s9222
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug/Psychologist.app
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug/Psychologist.app/Contents/Info.plist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug/Psychologist.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug/Psychologist.app/Contents/Resources/HappinessViewController.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug/Psychologist.app/Contents/Resources/MainWindow-iPad.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug/Psychologist.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug/Psychologist.app/Contents/Resources/PsychologistViewController.nib
+t2
+s0
+
+NPsychologist-Info.plist
+c000000004CB79DFE00000000000003CE
+t1287101950
+s974
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319685040#319685040#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.1'1(4@58"error: There is no SDK with the name or path 'iphoneos4.1'319685040#18446744073709551615#0#0(1@0"0(0#1#0"8600681952#0"0#
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib"
+r0
+
+CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug/Psychologist.app/Contents/Info.plist" Psychologist-Info.plist
+r0
+
+CTouch "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug/Psychologist.app"
+r0
+

@@ -1,0 +1,325 @@
+TPsychologist
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.h
+c000000004CB79D5300000000000001D8
+t1287101779
+s472
+i<UIKit/UIKit.h>
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m
+c000000004CB7A04A00000000000004B8
+t1287102538
+s1208
+i"PsychologistViewController.h"
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.h
+c000000004CB79A6900000000000001D6
+t1287101033
+s470
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m
+c000000004CB79C240000000000000C67
+t1287101476
+s3175
+i"FaceView.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.h
+c000000004CB7A0190000000000000230
+t1287102489
+s560
+i<UIKit/UIKit.h>
+i"FaceView.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m
+c000000004CB7AD6F0000000000000800
+t1287105903
+s2048
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.h
+c000000004CB79ED8000000000000017E
+t1287102168
+s382
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m
+c000000004CB79F740000000000000D0F
+t1287102324
+s3343
+i"PsychologistAppDelegate.h"
+i"PsychologistViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib
+c000000004CB798F20000000000005411
+t1287100658
+s21521
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib
+c000000004CAE614A0000000000002121
+t1286496586
+s8481
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.h
+c000000004CB79D5300000000000001D8
+t1287101779
+s472
+i<UIKit/UIKit.h>
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib
+c000000004CB7975D00000000000061D1
+t1287100253
+s25041
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Psychologist_Prefix.pch
+c000000004CAE614B00000000000000C1
+t1286496587
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib
+c000000004CB79DFF0000000000002406
+t1287101951
+s9222
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app.dSYM
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/HappinessViewController.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/Info.plist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/MainWindow-iPad.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/MainWindow.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/PkgInfo
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/Psychologist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/PsychologistViewController.nib
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/ResourceRules.plist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/FaceView.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/HappinessViewController.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/Psychologist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/Psychologist.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/PsychologistAppDelegate.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/PsychologistViewController.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/FaceView.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/HappinessViewController.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/Psychologist
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/Psychologist.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/PsychologistAppDelegate.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/PsychologistViewController.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m
+c000000004CAE614B0000000000000175
+t1286496587
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bylmojmmpuiyvkdwbxwmasgkatzn/Psychologist_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-edjsbvmlswdxnwajdfidiwlqllyw/Psychologist_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-evjdizmsbruchudknpomzkmgoomk/Psychologist_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-gdgthirmyilnaddffmhjnpsrrxzw/Psychologist_Prefix.pch.gch
+t2
+s0
+
+NPsychologist-Info.plist
+c000000004CB79DFE00000000000003CE
+t1287101950
+s974
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/FaceView.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/HappinessViewController.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/PsychologistAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/PsychologistViewController.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/main.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/FaceView.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/HappinessViewController.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/PsychologistAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/PsychologistViewController.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/main.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib"
+r0
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib"
+r0
+
+CCpResource build/Debug-iphoneos/Psychologist.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/Psychologist" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/Psychologist"
+r0
+
+CLd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv6/Psychologist" normal armv6
+r0
+
+CLd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphoneos/Psychologist.build/Objects-normal/armv7/Psychologist" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app/Info.plist" Psychologist-Info.plist
+r0
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bylmojmmpuiyvkdwbxwmasgkatzn/Psychologist_Prefix.pch.gch Psychologist_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-edjsbvmlswdxnwajdfidiwlqllyw/Psychologist_Prefix.pch.gch Psychologist_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-evjdizmsbruchudknpomzkmgoomk/Psychologist_Prefix.pch.gch Psychologist_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-gdgthirmyilnaddffmhjnpsrrxzw/Psychologist_Prefix.pch.gch Psychologist_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphoneos/Psychologist.app"
+r0
+

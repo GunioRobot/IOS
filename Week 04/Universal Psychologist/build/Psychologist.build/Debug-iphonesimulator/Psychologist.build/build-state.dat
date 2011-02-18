@@ -1,0 +1,362 @@
+TPsychologist
+v7
+r0
+t319685087.989421
+cCheck dependencies
+cProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Info.plist" Psychologist-Info.plist
+cCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib"
+cCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib"
+cCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib"
+cCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib"
+cProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch.gch Psychologist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/main.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/HappinessViewController.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/FaceView.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistViewController.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist" normal i386
+cGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist"
+cTouch "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.h
+c000000004CB79D5300000000000001D8
+t1287101779
+s472
+i<UIKit/UIKit.h>
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m
+c000000004CB7A04A00000000000004B8
+t1287102538
+s1208
+i"PsychologistViewController.h"
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.h
+c000000004CB79A6900000000000001D6
+t1287101033
+s470
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m
+c000000004CB79C240000000000000C67
+t1287101476
+s3175
+i"FaceView.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.h
+c000000004CB7A0190000000000000230
+t1287102489
+s560
+i<UIKit/UIKit.h>
+i"FaceView.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m
+c000000004CB7AD6F0000000000000800
+t1287105903
+s2048
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.h
+c000000004CB79ED8000000000000017E
+t1287102168
+s382
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m
+c000000004CB79F740000000000000D0F
+t1287102324
+s3343
+i"PsychologistAppDelegate.h"
+i"PsychologistViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib
+c000000004CB798F20000000000005411
+t1287100658
+s21521
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib
+c000000004CAE614A0000000000002121
+t1286496586
+s8481
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.h
+c000000004CB79D5300000000000001D8
+t1287101779
+s472
+i<UIKit/UIKit.h>
+i"HappinessViewController.h"
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib
+c000000004CB7975D00000000000061D1
+t1287100253
+s25041
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Psychologist_Prefix.pch
+c000000004CAE614B00000000000000C1
+t1286496587
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib
+c000000004CB79DFF0000000000002406
+t1287101951
+s9222
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app
+t1297992277
+s306
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app.dSYM
+t1297992277
+s102
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/HappinessViewController.nib
+t1297992276
+s1248
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Info.plist
+t1297992275
+s661
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/MainWindow-iPad.nib
+t1297992276
+s989
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/MainWindow.nib
+t1297992276
+s989
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/PkgInfo
+t1297992275
+s8
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist
+t1297992277
+s33136
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/PsychologistViewController.nib
+t1297992276
+s2219
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/FaceView.o
+t1297992277
+s51084
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/HappinessViewController.o
+t1297992277
+s53988
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/Psychologist.LinkFileList
+c000000004D5DCA530000000000000347
+t1297992275
+s839
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistAppDelegate.o
+t1297992277
+s56648
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistViewController.o
+t1297992277
+s43680
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/main.o
+t1297992277
+s6348
+
+N/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m
+c000000004CAE614B0000000000000175
+t1286496587
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch.gch
+t1297992277
+s15453392
+
+NPsychologist-Info.plist
+c000000004CB79DFE00000000000003CE
+t1287101950
+s974
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319685087#319685087#0(0"0(0#1#0"8630177248#0"0#
+
+CCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/FaceView.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685077.108417
+e319685077.181502
+r1
+xCompileC
+xbuild/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/FaceView.o
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m319685077#319685077#0(0"0(0#0#80"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m8629130848#2367"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/FaceView.m" -o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/FaceView.o"0#
+
+CCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/HappinessViewController.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685077.107678
+e319685077.178527
+r1
+xCompileC
+xbuild/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/HappinessViewController.o
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m319685077#319685077#0(0"0(0#0#95"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m8630363232#2397"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/HappinessViewController.m" -o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/HappinessViewController.o"0#
+
+CCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685077.106930
+e319685077.181779
+r1
+xCompileC
+xbuild/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistAppDelegate.o
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m319685077#319685077#0(0"0(0#0#95"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m8631044448#2397"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/PsychologistAppDelegate.m" -o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistAppDelegate.o"0#
+
+CCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistViewController.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685077.109163
+e319685077.173502
+r1
+xCompileC
+xbuild/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistViewController.o
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m319685077#319685077#0(0"0(0#0#101"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m8615049632#2406"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Classes/../PsychologistViewController.m" -o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/PsychologistViewController.o"0#
+
+CCompileC build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/main.o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685077.106015
+e319685077.148713
+r1
+xCompileC
+xbuild/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/main.o
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m319685077#319685077#0(0"0(0#0#68"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m8629562048#2351"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/main.m" -o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib"
+s319685075.877817
+e319685076.234975
+r1
+xCompileXIB
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib
+lSLF07#2@38"CompileXIB HappinessViewController.xib319685075#319685076#0(0"0(0#0#89"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib8629002496#738"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/HappinessViewController.nib" "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/HappinessViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib"
+s319685075.877042
+e319685076.210267
+r1
+xCompileXIB
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319685075#319685076#0(0"0(0#0#76"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib8629112736#712"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/MainWindow.nib" "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib"
+s319685075.878551
+e319685076.269610
+r1
+xCompileXIB
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib
+lSLF07#2@41"CompileXIB PsychologistViewController.xib319685075#319685076#0(0"0(0#0#92"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib8628901504#744"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/PsychologistViewController.nib" "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/PsychologistViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib"
+s319685075.879328
+e319685076.210022
+r1
+xCompileXIB
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib
+lSLF07#2@45"CompileXIB Resources-iPad/MainWindow-iPad.xib319685075#319685076#0(0"0(0#0#96"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib8628731392#737"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/MainWindow-iPad.nib" "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Resources-iPad/MainWindow-iPad.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist"
+s319685077.199784
+e319685077.214944
+r1
+xGenerateDSYMFile
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app.dSYM
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/Psychologist.app.dSYM build/Debug-iphonesimulator/Psychologist.app/Psychologist319685077#319685077#0(0"0(0#0#119"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist8627922496#535"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist" -o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app.dSYM"0#
+
+CLd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist" normal i386
+s319685077.181830
+e319685077.199708
+r1
+xLd
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist
+xnormal
+xi386
+lSLF07#2@124"Link /Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist319685077#319685077#0(0"0(0#0#0"8628630144#1112"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator" "-F/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator" -filelist "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Objects-normal/i386/Psychologist.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Psychologist"0#
+
+CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Info.plist" Psychologist-Info.plist
+s319685075.873280
+e319685075.876929
+r1
+xProcessInfoPlistFile
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Info.plist
+xPsychologist-Info.plist
+lSLF07#2@31"Process Psychologist-Info.plist319685075#319685075#0(0"0(0#0#85"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Psychologist-Info.plist8629431264#631"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Psychologist-Info.plist -genpkginfo "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app/Info.plist"0#
+
+CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch.gch Psychologist_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319685076.269702
+e319685077.105925
+r1
+xProcessPCH
+x/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch.gch
+xPsychologist_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Psychologist_Prefix.pch319685076#319685077#0(0"0(0#0#85"/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Psychologist_Prefix.pch8629758016#2213"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/Psychologist-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Psychologist.build/Debug-iphonesimulator/Psychologist.build/DerivedSources" -c "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/Psychologist_Prefix.pch" -o /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Psychologist_Prefix-bqcrjisjlhchbnafaipxyekjqsqu/Psychologist_Prefix.pch.gch0#
+
+CTouch "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app"
+s319685077.215015
+e319685077.217028
+r1
+xTouch
+x/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app
+lSLF07#2@112"Touch /Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app319685077#319685077#0(0"0(0#0#0"8627450176#395"    cd "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/work/Sites/Learning/IOS/Week 04/Universal Psychologist/build/Debug-iphonesimulator/Psychologist.app"0#
+

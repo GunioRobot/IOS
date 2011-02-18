@@ -16,10 +16,13 @@
 
 @interface GraphView : UIView {
 	CGFloat scale;
+	CGPoint	origin;
 	id <GraphViewDelegate> delegate;
+	
 }
 
 @property CGFloat scale;
+@property CGPoint origin;
 @property (assign) id <GraphViewDelegate> delegate;
 
 @end

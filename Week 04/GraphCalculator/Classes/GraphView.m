@@ -11,6 +11,7 @@
 
 @implementation GraphView
 @synthesize delegate;
+@synthesize origin;
 
 - (void)setup 
 {
@@ -54,13 +55,45 @@
 	}	
 }
 
+- (CGPoint)origin
+{
+	if(origin.x == 0 && origin.y == 0)
+	{
+		origin.x = self.bounds.origin.x + self.bounds.size.width/2;
+		origin.y = self.bounds.origin.y + self.bounds.size.height/2;
+	}
+	return origin;
+}
+
+- (void)setOrigin:(CGPoint)aPoint
+{
+	origin = aPoint;
+	[self setNeedsDisplay];
+}
+
+
+- (void)pinch:(UIPinchGestureRecognizer *)gesture
+{
+	if ((gesture.state == UIGestureRecognizerStateChanged) ||
+		(gesture.state == UIGestureRecognizerStateEnded)) {
+		self.scale *= gesture.scale;
+		gesture.scale = 1;
+	}
+}
+
+-(void)pan:(UIPanGestureRecognizer *)gesture
+{
+	if ((gesture.state == UIGestureRecognizerStateChanged) ||
+		(gesture.state == UIGestureRecognizerStateEnded)) {
+		CGPoint translation = [gesture translationInView:self];
+		self.origin = CGPointMake(self.origin.x + translation.x, self.origin.y + translation.y);
+		[gesture setTranslation:CGPointZero inView:self];
+	}
+}
+
 - (void)drawRect:(CGRect)rect {
-	CGPoint midPoint;
-	midPoint.x = self.bounds.origin.x + self.bounds.size.width/2;
-	midPoint.y = self.bounds.origin.y + self.bounds.size.height/2;
-	
 	[[UIColor blueColor] set] ;
-    [AxesDrawer drawAxesInRect:self.bounds originAtPoint:midPoint scale:self.scale];
+    [AxesDrawer drawAxesInRect:self.bounds originAtPoint:self.origin scale:self.scale];
 	
 	float contentScale = (float)self.contentScaleFactor;
 	
@@ -68,9 +101,9 @@
 	CGContextBeginPath(context);
 
 	for (float i = self.bounds.origin.x; i <= self.bounds.size.width * contentScale; i++) {
-		float graphX = (i - (midPoint.x * contentScale))/(self.scale * contentScale);		
+		float graphX = (i - (self.origin.x * contentScale))/(self.scale * contentScale);		
 		float graphY = [self.delegate yForXvalue:graphX forGraphView:self];
-		float yVal = (midPoint.y* contentScale) - (graphY* contentScale * self.scale);
+		float yVal = (self.origin.y * contentScale) - (graphY * contentScale * self.scale);
 		
 		if(i==0)
 		{
