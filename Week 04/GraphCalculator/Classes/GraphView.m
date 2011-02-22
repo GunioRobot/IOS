@@ -100,8 +100,8 @@
 		self.originOffset = CGPointZero;
 	}
 }
-  
-  
+
+
 - (void)drawRect:(CGRect)rect {
 	[[UIColor blueColor] set] ;
     [AxesDrawer drawAxesInRect:self.bounds originAtPoint:self.origin scale:self.scale];

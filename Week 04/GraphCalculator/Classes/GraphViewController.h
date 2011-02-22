@@ -10,7 +10,7 @@
 #import "GraphView.h"
 #import "CalculatorBrain.h";
 
-@interface GraphViewController : UIViewController <GraphViewDelegate>{
+@interface GraphViewController : UIViewController <GraphViewDelegate, UISplitViewControllerDelegate>{
 	id expression;
 	
 	IBOutlet GraphView *graphView;	

@@ -25,6 +25,13 @@
     return self;
 }
 
+-(void)setExpression:(id)newExpression
+{
+	[expression release]; 
+	expression = [newExpression retain];
+	[self.graphView setNeedsDisplay];
+}
+
 - (GraphView *) graphView { 
 	if(!graphView)
 	{
@@ -38,7 +45,7 @@
 	
 	self.graphView.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
 	self.graphView.backgroundColor = [UIColor whiteColor];
-
+	self.graphView.delegate = self;
     [self.view addSubview:self.graphView];
 } 
 
@@ -61,7 +68,6 @@
 	[self.graphView addGestureRecognizer:dtapgr];
 	[dtapgr release];
 }
-
 
 // Override to allow orientations other than the default portrait orientation.
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {

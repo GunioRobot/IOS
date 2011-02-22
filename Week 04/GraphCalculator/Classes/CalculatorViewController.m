@@ -24,6 +24,13 @@
 	return brain;
 }
 
+-(GraphViewController *)graphViewController
+{
+	if(!graphViewController) graphViewController =  [[GraphViewController alloc] init];
+	return graphViewController;
+}
+	
+	
 - (IBAction)digitPressed:(UIButton *)sender
 {
 	NSString *digit	= sender.titleLabel.text;
@@ -80,11 +87,23 @@
 {
 	//Finish off the expression, init the GraphViewController with the current expression and push it on the stack
 	[self.brain performOperation:@"="];
-	GraphViewController *gvc = [[GraphViewController alloc] init];
-	gvc.title = [CalculatorBrain descriptionOfExpression:self.brain.expression];
-	gvc.expression = self.brain.expression;
-	[self.navigationController pushViewController:gvc animated:YES];
-	[gvc release]; 
+	self.graphViewController.title = [CalculatorBrain descriptionOfExpression:self.brain.expression];
+	self.graphViewController.expression = self.brain.expression; //this causes the graph to redraw
+	
+	// If graphViewController is not on screen, push it onto the navigation stack
+	if (self.graphViewController.view.window == nil)
+	{
+		[self.navigationController pushViewController:self.graphViewController animated:YES];
+		//[self.graphViewController.graphView setNeedsDisplay];
+	}
+//	[self.graphViewController.graphView setNeedsDisplay];
+	
+}
+
+
+- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)toInterfaceOrientation
+{
+	return YES;
 }
 
 - (void)releaseOutlets
@@ -101,6 +120,7 @@
 {
 	[self releaseOutlets];
 	[brain release];
+	[graphViewController release];
 	[super dealloc];
 }
 

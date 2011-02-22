@@ -16,6 +16,12 @@
 #pragma mark -
 #pragma mark Application lifecycle
 
+-(BOOL)iPad
+{
+	return (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad);
+}
+
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
 	// Set up UINavigationView Controller as root view controller
@@ -25,8 +31,25 @@
 	CalculatorViewController *cvc = [[CalculatorViewController alloc] init];
 	cvc.title = @"Calculator";
 	[nvc pushViewController:cvc animated:NO];
+	
+	if(self.iPad)
+	{
+		NSLog(@"iPad");
+		UISplitViewController *svc = [[UISplitViewController alloc] init];
+		UINavigationController *rightNav = [[UINavigationController alloc] init];
+		[rightNav pushViewController:cvc.graphViewController animated:NO];
+		svc.delegate = cvc.graphViewController;
+		svc.viewControllers = [NSArray arrayWithObjects:nvc, rightNav, nil];
+		[nvc release]; [rightNav release];
+		[window addSubview:svc.view];
+	}
+	else 
+	{
+		NSLog(@"iPhone");
+		[window addSubview:nvc.view];
+	}	
+	
 	[cvc release];
-	[self.window addSubview:nvc.view];
     [self.window makeKeyAndVisible];
     
     return YES;
