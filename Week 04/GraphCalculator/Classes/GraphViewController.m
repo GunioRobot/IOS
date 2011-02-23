@@ -8,8 +8,6 @@
 
 #import "GraphViewController.h"
 
-#define GRAPH_SCALE_STEP 10
-
 @implementation GraphViewController
 
 @synthesize expression;
@@ -78,6 +76,26 @@
 - (float)yForXvalue:(float)xValue forGraphView:(GraphView *)requestor
 {
 	return [CalculatorBrain evaluateExpression:self.expression usingVariableValues:[NSDictionary dictionaryWithObjectsAndKeys:[NSNumber numberWithDouble:xValue],@"x", nil]];
+}
+
+
+
+// Handles the hiding and showing of the bar button for the splitview
+- (void) splitViewController:(UISplitViewController *)svc 
+	  willHideViewController:(UIViewController *)aViewController 
+		   withBarButtonItem:(UIBarButtonItem *)barButtonItem 
+		forPopoverController:(UIPopoverController *)pc
+{
+	barButtonItem.title = aViewController.title;
+	self.navigationItem.leftBarButtonItem = barButtonItem;
+	// if we are not in a UINavigationController this method (appropriately) does nothing
+}
+
+- (void) splitViewController:(UISplitViewController *)svc 
+	  willShowViewController:(UIViewController *)aViewController 
+   invalidatingBarButtonItem:(UIBarButtonItem *)barButtonItem
+{
+	self.navigationItem.leftBarButtonItem = nil;
 }
 
 - (void)didReceiveMemoryWarning {

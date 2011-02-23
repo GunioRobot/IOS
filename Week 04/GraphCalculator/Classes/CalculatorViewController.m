@@ -94,10 +94,19 @@
 	if (self.graphViewController.view.window == nil)
 	{
 		[self.navigationController pushViewController:self.graphViewController animated:YES];
-		//[self.graphViewController.graphView setNeedsDisplay];
 	}
-//	[self.graphViewController.graphView setNeedsDisplay];
-	
+}
+
+// Return the size for the view when in a popover
+// Get the frame of the root view and iterate through all subviews, expanding the bounds as necessary
+- (CGSize)contentSizeForViewInPopover
+{
+	CGRect contentRect = self.view.frame;
+	for (UIView *view in self.view.subviews)
+	{
+		contentRect = CGRectUnion(contentRect, view.frame);
+	}
+	return contentRect.size;
 }
 
 

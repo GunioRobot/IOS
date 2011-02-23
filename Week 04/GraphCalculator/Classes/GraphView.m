@@ -16,6 +16,9 @@
 - (void)setup 
 {
 	self.contentMode = UIViewContentModeRedraw;
+	NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
+	self.scale = [[userDefaults objectForKey:@"scale"] floatValue];
+	self.originOffset = CGPointFromString([userDefaults objectForKey:@"originOffset"]);
 }
 
 - (id)initWithFrame:(CGRect)frame {
@@ -50,6 +53,11 @@
 	if ([GraphView scaleIsValid:newScale]) {
 		if (newScale != scale) {
 			scale = newScale;
+			
+			NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
+			[userDefaults setObject:[NSNumber numberWithFloat:scale] forKey:@"scale"];
+			
+			
 			[self setNeedsDisplay];
 		}
 	}	
@@ -58,17 +66,17 @@
 -(CGPoint)origin
 {
 	return CGPointMake(self.originOffset.x + (self.bounds.origin.x + self.bounds.size.width/2), self.originOffset.y + (self.bounds.origin.y + self.bounds.size.height/2));
-	//return CGPointMake((self.bounds.origin.x + self.bounds.size.width/2) + (self.originOffset.x * (self.bounds.origin.x + self.bounds.size.width/2)), 
-	//				   (self.bounds.origin.y + self.bounds.size.height/2) + self.originOffset.y * (self.bounds.origin.y + self.bounds.size.height/2));
 }
 
 
 - (void)setOriginOffset:(CGPoint)offSet 
 {
 	
-	//originOffset.x += (offSet.x/self.bounds.size.width);
-//	originOffset.y += (offSet.y/self.bounds.size.height);
 	originOffset = offSet;
+	
+	NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
+	[userDefaults setObject:NSStringFromCGPoint(originOffset) forKey:@"originOffset"];
+	
 	[self setNeedsDisplay];
 }
 
@@ -88,7 +96,6 @@
 		(gesture.state == UIGestureRecognizerStateEnded)) {
 		CGPoint translation = [gesture translationInView:self];
 		self.originOffset = CGPointMake(self.originOffset.x + translation.x, self.originOffset.y + translation.y);
-		//self.originOffset = translation;
 		[gesture setTranslation:CGPointZero inView:self];
 	}
 }

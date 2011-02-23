@@ -275,7 +275,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>13</integer>
+									<integer>9</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -316,7 +316,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>9657DA9A130DFF67005E5810</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>GraphView.m</string>
+								<string>GraphCalculatorAppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -324,19 +324,19 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>9657DA9B130DFF67005E5810</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>GraphView.m</string>
+										<string>GraphCalculatorAppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>960D69CF130E56FA00E17BF4</string>
+										<string>96F050861315110100DA7BB7</string>
 										<key>history</key>
 										<array>
-											<string>960D690D130E45D600E17BF4</string>
-											<string>960D6914130E47D400E17BF4</string>
 											<string>960D6915130E47D400E17BF4</string>
-											<string>960D69B1130E547F00E17BF4</string>
-											<string>960D69B2130E547F00E17BF4</string>
-											<string>960D69B3130E547F00E17BF4</string>
+											<string>96F0505513150B6F00DA7BB7</string>
+											<string>96F0507013150F9500DA7BB7</string>
+											<string>96F0507E131510E100DA7BB7</string>
+											<string>96F0507F131510E100DA7BB7</string>
+											<string>96F05080131510E100DA7BB7</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -350,18 +350,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {2204, 1122}}</string>
+								<string>{{0, 0}, {2204, 1119}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 59 2560 1359 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>1122pt</string>
+							<string>1119pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>191pt</string>
+							<string>194pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -375,7 +375,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {2204, 164}}</string>
+										<string>{{10, 27}, {2204, 167}}</string>
+										<key>RubberWindowFrame</key>
+										<string>0 59 2560 1359 0 0 2560 1418 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -430,8 +432,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {2204, 164}}</string>
-										<key>RubberWindowFrame</key>
-										<string>0 59 2560 1359 0 0 2560 1418 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -459,11 +459,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>960D67FA130E34B300E17BF4</string>
+				<string>96F05027131501BD00DA7BB7</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>960D67FB130E34B300E17BF4</string>
+				<string>96F05028131501BD00DA7BB7</string>
 				<string>9657DA9A130DFF67005E5810</string>
-				<string>960D67FC130E34B300E17BF4</string>
+				<string>96F05029131501BD00DA7BB7</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -612,14 +612,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>960D67FD130E34B300E17BF4</string>
+				<string>96F0502A131501BD00DA7BB7</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>960D67FE130E34B300E17BF4</string>
-				<string>960D67FF130E34B300E17BF4</string>
-				<string>960D6800130E34B300E17BF4</string>
-				<string>960D6801130E34B300E17BF4</string>
-				<string>960D6802130E34B300E17BF4</string>
+				<string>96F0502B131501BD00DA7BB7</string>
+				<string>96F0502C131501BD00DA7BB7</string>
+				<string>96F0502D131501BD00DA7BB7</string>
+				<string>96F0502E131501BD00DA7BB7</string>
+				<string>96F0502F131501BD00DA7BB7</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -653,8 +653,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>960D684C130E3A5700E17BF4</string>
-		<string>960D6844130E39E900E17BF4</string>
 		<string>/Users/work/Sites/Learning/IOS/Week 04/GraphCalculator/GraphCalculator.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
