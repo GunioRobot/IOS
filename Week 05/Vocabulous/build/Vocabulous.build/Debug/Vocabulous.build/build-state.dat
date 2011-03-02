@@ -1,0 +1,39 @@
+TVocabulous
+v7
+r1
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/MainWindow.xib
+c000000004CC0D4980000000000002117
+t1287705752
+s8471
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug/Vocabulous.app
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug/Vocabulous.app/Contents/Info.plist
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug/Vocabulous.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug/Vocabulous.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NVocabulous-Info.plist
+c000000004CC0D498000000000000038D
+t1287705752
+s909
+
+CCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug/Vocabulous.app/Contents/Info.plist" Vocabulous-Info.plist
+r0
+
+CTouch "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug/Vocabulous.app"
+r0
+

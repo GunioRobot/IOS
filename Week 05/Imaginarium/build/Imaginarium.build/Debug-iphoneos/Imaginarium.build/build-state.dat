@@ -1,0 +1,198 @@
+TImaginarium
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/Classes/ImaginariumAppDelegate.h
+c000000004CBE49470000000000000189
+t1287539015
+s393
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/Classes/ImaginariumAppDelegate.m
+c000000004CBE494D0000000000000459
+t1287539021
+s1113
+i"ImaginariumAppDelegate.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/Imaginarium_Prefix.pch
+c000000004CBE339F00000000000000BF
+t1287533471
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/MainWindow.xib
+c000000004CBE339F000000000000211C
+t1287533471
+s8476
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app.dSYM
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app/Imaginarium
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app/Info.plist
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app/MainWindow.nib
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app/PkgInfo
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app/ResourceRules.plist
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app/ipod.jpg
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv6/Imaginarium
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv6/Imaginarium.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv6/ImaginariumAppDelegate.o
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/Imaginarium
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/Imaginarium.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImaginariumAppDelegate.o
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/ipod.jpg
+c000000004CBE33BA0000000000031816
+t1287533498
+s202774
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/main.m
+c000000004CBE339F0000000000000175
+t1287533471
+s373
+i<UIKit/UIKit.h>
+
+N/var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Imaginarium_Prefix-bcmpzqgreijieqgcnvxsnbfqokeq/Imaginarium_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Imaginarium_Prefix-bdhpromhadbdzchdonjxbeqbywvd/Imaginarium_Prefix.pch.gch
+t2
+s0
+
+NImaginarium-Info.plist
+c000000004CBE339F000000000000038D
+t1287533471
+s909
+
+CCompileC build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv6/ImaginariumAppDelegate.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/Classes/ImaginariumAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv6/main.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/ImaginariumAppDelegate.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/Classes/ImaginariumAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/main.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/Imaginarium.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/Imaginarium.app/ipod.jpg ipod.jpg
+r0
+
+CCreateUniversalBinary "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app/Imaginarium" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app.dSYM" "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app/Imaginarium"
+r0
+
+CLd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv6/Imaginarium" normal armv6
+r0
+
+CLd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Imaginarium.build/Debug-iphoneos/Imaginarium.build/Objects-normal/armv7/Imaginarium" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app/Info.plist" Imaginarium-Info.plist
+r0
+
+CProcessPCH /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Imaginarium_Prefix-bcmpzqgreijieqgcnvxsnbfqokeq/Imaginarium_Prefix.pch.gch Imaginarium_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Imaginarium_Prefix-bdhpromhadbdzchdonjxbeqbywvd/Imaginarium_Prefix.pch.gch Imaginarium_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug-iphoneos/Imaginarium.app"
+r0
+

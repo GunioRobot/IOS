@@ -45,6 +45,116 @@ c000000004CC12883000000000074D7B0
 t1287727235
 s7657392
 
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/CalculatorViewController.xib
+c000000004D61F4040000000000011FD2
+t1298265092
+s73682
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Calculator_Prefix.pch
+c000000004D61F40400000000000000BD
+t1298265092
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorAppDelegate.h
+c000000004D61F40400000000000001F2
+t1298265092
+s498
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorAppDelegate.m
+c000000004D61F4040000000000000AA5
+t1298265092
+s2725
+i"CalculatorAppDelegate.h"
+i"CalculatorViewController.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorBrain.h
+c000000004D61F40400000000000003AB
+t1298265092
+s939
+i<Foundation/Foundation.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorBrain.m
+c000000004D61F404000000000000141A
+t1298265092
+s5146
+i"CalculatorBrain.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorViewController.h
+c000000004D61F404000000000000024C
+t1298265092
+s588
+i<UIKit/UIKit.h>
+i"CalculatorBrain.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorViewController.m
+c000000004D61F40400000000000009B0
+t1298265092
+s2480
+i"CalculatorViewController.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/MainWindow.xib
+c000000004D61F4040000000000004E4D
+t1298265092
+s20045
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList
+c000000004D61F404000000000000025C
+t1298265092
+s604
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o
+t1298265092
+s51404
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o
+t1298265092
+s29084
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o
+t1298265092
+s47212
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o
+t1298265092
+s6324
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app
+t1298265092
+s238
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
+t1298265092
+s102
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+t1298265092
+s31192
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib
+t1298265092
+s6846
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
+t1298265092
+s603
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/MainWindow.nib
+t1298265092
+s1129
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo
+t1298265092
+s8
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/main.m
+c000000004D61F404000000000000016D
+t1298265092
+s365
+i<UIKit/UIKit.h>
+
 N/Users/work/Sites/Learning/IOS/Week 01/Calculator/CalculatorViewController.xib
 c000000004D575BFF00000000000101C3
 t1297570815
@@ -281,6 +391,10 @@ t1297338560
 s365
 i<UIKit/UIKit.h>
 
+N/var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Calculator_Prefix-bxtnxckpocedlagozpnejyqsieau/Calculator_Prefix.pch.gch
+t2
+s0
+
 N/var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Calculator_Prefix-ardqqwuebapjctgjucyzzxdohwxo/Calculator_Prefix.pch.gch
 t1297640694
 s15453392
@@ -294,8 +408,8 @@ t1297643037
 s2784044
 
 NCalculator-Info.plist
-c000000004D53D0C0000000000000038D
-t1297338560
+c000000004D61F404000000000000038D
+t1298265092
 s909
 
 CAnalyze "/Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorAppDelegate.m"
@@ -338,6 +452,9 @@ CCheck dependencies
 r0
 lSLF07#2@18"Check dependencies319375118#319375118#0(0"0(0#1#0"8639152544#0"0#
 
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o "/Users/work/Sites/Learning/IOS/Week 01/Calculator/Classes/CalculatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s319264345.288332
 e319264345.348272
@@ -363,6 +480,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@89"Compile /Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorAppDelegate.m319359230#319359230#0(0"0(0#0#81"/Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorAppDelegate.m8639477184#2221"    cd "/Users/work/Sites/Learning/IOS/Week 02/Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Calculator_Prefix-ardqqwuebapjctgjucyzzxdohwxo/Calculator_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorAppDelegate.m" -o "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o"0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorBrain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o "/Users/work/Sites/Learning/IOS/Week 01/Calculator/Classes/CalculatorBrain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s319264345.289681
@@ -390,6 +510,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@83"Compile /Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorBrain.m319375118#319375118#0(0"0(0#0#75"/Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorBrain.m8630034400#2209"    cd "/Users/work/Sites/Learning/IOS/Week 02/Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Calculator_Prefix-ardqqwuebapjctgjucyzzxdohwxo/Calculator_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorBrain.m" -o "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o"0#
 
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o "/Users/work/Sites/Learning/IOS/Week 01/Calculator/Classes/CalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s319265398.037081
 e319265398.129468
@@ -416,6 +539,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@92"Compile /Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorViewController.m319360446#319360446#0(0"0(0#0#84"/Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorViewController.m8640247328#2227"    cd "/Users/work/Sites/Learning/IOS/Week 02/Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Calculator_Prefix-ardqqwuebapjctgjucyzzxdohwxo/Calculator_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 02/Calculator/Classes/CalculatorViewController.m" -o "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o"0#
 
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o "/Users/work/Sites/Learning/IOS/Week 01/Calculator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s319031487.095562
 e319031487.254693
@@ -441,6 +567,12 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@64"Compile /Users/work/Sites/Learning/IOS/Week 02/Calculator/main.m319333494#319333494#0(0"0(0#0#56"/Users/work/Sites/Learning/IOS/Week 02/Calculator/main.m8610469728#2179"    cd "/Users/work/Sites/Learning/IOS/Week 02/Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources" -include /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Calculator_Prefix-ardqqwuebapjctgjucyzzxdohwxo/Calculator_Prefix.pch -c "/Users/work/Sites/Learning/IOS/Week 02/Calculator/main.m" -o "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/CalculatorViewController.xib"
+r0
+
+CCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/MainWindow.xib"
+r0
 
 CCompileXIB "/Users/work/Sites/Learning/IOS/Week 01/Calculator/CalculatorViewController.xib"
 s319263617.584814
@@ -470,6 +602,9 @@ lSLF07#2@39"CompileXIB CalculatorViewController.xib319350748#319350749#0(0"0(0#0
 CCompileXIB "/Users/work/Sites/Learning/IOS/Week 02/Calculator/MainWindow.xib"
 r0
 
+CGenerateDSYMFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM" "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator"
+r0
+
 CGenerateDSYMFile "/Users/work/Sites/Learning/IOS/Week 01/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM" "/Users/work/Sites/Learning/IOS/Week 01/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator"
 s319265398.148906
 e319265398.160562
@@ -487,6 +622,9 @@ xGenerateDSYMFile
 x/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
 x/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
 lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Calculator.app.dSYM build/Debug-iphonesimulator/Calculator.app/Calculator319375118#319375118#0(0"0(0#0#103"/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator8630345184#493"    cd "/Users/work/Sites/Learning/IOS/Week 02/Calculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator" -o "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM"0#
+
+CLd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator" normal i386
+r0
 
 CLd "/Users/work/Sites/Learning/IOS/Week 01/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator" normal i386
 s319265398.129541
@@ -508,6 +646,9 @@ xnormal
 xi386
 lSLF07#2@108"Link /Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator319375118#319375118#0(0"0(0#0#0"8640045728#1042"    cd "/Users/work/Sites/Learning/IOS/Week 02/Calculator"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator" "-F/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator" -filelist "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator"0#
 
+CProcessInfoPlistFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist" Calculator-Info.plist
+r0
+
 CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 01/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist" Calculator-Info.plist
 s319031485.873242
 e319031485.894950
@@ -518,6 +659,9 @@ xCalculator-Info.plist
 lSLF07#2@29"Process Calculator-Info.plist319031485#319031485#0(0"0(0#0#71"/Users/work/Sites/Learning/IOS/Week 01/Calculator/Calculator-Info.plist7525630621066290176#589"    cd "/Users/work/Sites/Learning/IOS/Week 01/Calculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Calculator-Info.plist -genpkginfo "/Users/work/Sites/Learning/IOS/Week 01/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/work/Sites/Learning/IOS/Week 01/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist"0#
 
 CProcessInfoPlistFile "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist" Calculator-Info.plist
+r0
+
+CProcessPCH /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Calculator_Prefix-bxtnxckpocedlagozpnejyqsieau/Calculator_Prefix.pch.gch Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CProcessPCH /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Calculator_Prefix-ardqqwuebapjctgjucyzzxdohwxo/Calculator_Prefix.pch.gch Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -558,6 +702,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.analyzer
 lSLF07#2@32"Precompile Calculator_Prefix.pch319335837#319335837#0(0"0(0#0#71"/Users/work/Sites/Learning/IOS/Week 02/Calculator/Calculator_Prefix.pch8605644892664325120#2046"    cd "/Users/work/Sites/Learning/IOS/Week 02/Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap" -iquote "/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap" "-F/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/include" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386" "-I/Users/work/Sites/Learning/IOS/Week 02/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources" -c "/Users/work/Sites/Learning/IOS/Week 02/Calculator/Calculator_Prefix.pch" -o /var/folders/Rc/RcSYSQ27HyyWaekTafqz2k+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Calculator_Prefix-hcijodmweuwegefzdsmaxfzsvypp/Calculator_Prefix.pch.pth0#
+
+CTouch "/Users/michael.mcglynn/Sites/Learning/IOS/Week 02/Calculator/build/Debug-iphonesimulator/Calculator.app"
+r0
 
 CTouch "/Users/work/Sites/Learning/IOS/Week 01/Calculator/build/Debug-iphonesimulator/Calculator.app"
 s319265398.160629

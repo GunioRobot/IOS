@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Vocabulous */ = {
+		activeExec = 0;
+		executables = (
+			BD29567C131E10AD0053A9E3 /* Vocabulous */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BD29567C131E10AD0053A9E3 /* Vocabulous */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Vocabulous */;
+		codeSenseManager = BD295699131E10E60053A9E3 /* Code sense */;
+		executables = (
+			BD29567C131E10AD0053A9E3 /* Vocabulous */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1893,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1853,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320737453;
+			PBXWorkspaceStateSaveDate = 320737453;
+		};
+		perUserProjectItems = {
+			BD2956A6131E11E40053A9E3 /* PBXTextBookmark */ = BD2956A6131E11E40053A9E3 /* PBXTextBookmark */;
+			BD2956C0131E1F8B0053A9E3 /* PBXTextBookmark */ = BD2956C0131E1F8B0053A9E3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = BD295698131E10E60053A9E3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BD29567C131E10AD0053A9E3 /* Vocabulous */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Vocabulous;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BD295698131E10E60053A9E3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BD295699131E10E60053A9E3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BD2956A6131E11E40053A9E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECC6035B12710C6E003691D4 /* WordListTableViewController.m */;
+		name = "WordListTableViewController.m: 113";
+		rLen = 0;
+		rLoc = 3521;
+		rType = 0;
+		vrLen = 309;
+		vrLoc = 3382;
+	};
+	BD2956C0131E1F8B0053A9E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECC6035B12710C6E003691D4 /* WordListTableViewController.m */;
+		name = "WordListTableViewController.m: 107";
+		rLen = 0;
+		rLoc = 3379;
+		rType = 0;
+		vrLen = 2512;
+		vrLoc = 1839;
+	};
+	ECC6035B12710C6E003691D4 /* WordListTableViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3775, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3826, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3876, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4438}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {2071, 2516}}";
+			sepNavSelRange = "{3379, 0}";
+			sepNavVisRange = "{1839, 2455}";
+		};
+	};
+}

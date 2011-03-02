@@ -274,7 +274,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>11</integer>
+									<integer>13</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -315,7 +315,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>BD9253B213122D52009003AB</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>GraphViewController.m</string>
+								<string>GraphView.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -323,11 +323,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>BD9253B313122D52009003AB</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>GraphViewController.m</string>
+										<string>GraphView.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BD7729B31313BD3B00A4E80B</string>
+										<string>BD2956C1131E1F8D0053A9E3</string>
 										<key>history</key>
 										<array>
 											<string>BDEC357E1313A8B600053228</string>
@@ -335,10 +335,11 @@
 											<string>BD77295E1313B52700A4E80B</string>
 											<string>BD7729761313B86A00A4E80B</string>
 											<string>BD7729791313B86A00A4E80B</string>
-											<string>BD77297F1313B91800A4E80B</string>
 											<string>BD77299A1313BBC100A4E80B</string>
-											<string>BD7729B01313BD1F00A4E80B</string>
-											<string>BD7729B11313BD1F00A4E80B</string>
+											<string>BDA127B2131B5A4800705F6C</string>
+											<string>BDA127B3131B5A4800705F6C</string>
+											<string>BD295673131DEC740053A9E3</string>
+											<string>BD295674131DEC740053A9E3</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -352,18 +353,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {2266, 1160}}</string>
+								<string>{{0, 0}, {2266, 1156}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 59 2560 1359 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>1160pt</string>
+							<string>1156pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>153pt</string>
+							<string>157pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -377,7 +378,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {2266, 126}}</string>
+										<string>{{10, 27}, {2266, 130}}</string>
 										<key>RubberWindowFrame</key>
 										<string>0 59 2560 1359 0 0 2560 1418 </string>
 									</dict>
@@ -461,11 +462,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>BD7728F81313AFE300A4E80B</string>
+				<string>BD295676131DEC740053A9E3</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>BD7728F91313AFE300A4E80B</string>
+				<string>BD295677131DEC740053A9E3</string>
 				<string>BD9253B213122D52009003AB</string>
-				<string>BD7728FA1313AFE300A4E80B</string>
+				<string>BD295678131DEC740053A9E3</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -655,8 +656,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>BD77292F1313B34400A4E80B</string>
-		<string>BD77292C1313B33E00A4E80B</string>
 		<string>/Users/michael.mcglynn/Sites/Learning/IOS/Week 04/GraphCalculator/GraphCalculator.xcodeproj</string>
 	</array>
 	<key>WindowString</key>

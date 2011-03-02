@@ -1,0 +1,269 @@
+TVocabulous
+v7
+r0
+t320737792.112182
+cCheck dependencies
+cProcessInfoPlistFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Info.plist" Vocabulous-Info.plist
+cCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/MainWindow.xib"
+cProcessPCH /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Vocabulous_Prefix-hjxokngfqbtvxxcdiacuxevrkocz/Vocabulous_Prefix.pch.gch Vocabulous_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/main.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/VocabulousAppDelegate.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/VocabulousAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/WordListTableViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/../WordListTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/DefinitionViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/DefinitionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous" normal i386
+cGenerateDSYMFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app.dSYM" "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous"
+cTouch "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/../WordListTableViewController.m
+c000000004D6DDA310000000000001156
+t1299044913
+s4438
+i"WordListTableViewController.h"
+i"DefinitionViewController.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/DefinitionViewController.h
+c000000004CC112490000000000000145
+t1287721545
+s325
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/DefinitionViewController.m
+c000000004CC112600000000000000445
+t1287721568
+s1093
+i"DefinitionViewController.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/VocabulousAppDelegate.h
+c000000004CC114C90000000000000158
+t1287722185
+s344
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/VocabulousAppDelegate.m
+c000000004CC1121B0000000000000374
+t1287721499
+s884
+i"VocabulousAppDelegate.h"
+i"WordListTableViewController.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/MainWindow.xib
+c000000004CC0D4980000000000002117
+t1287705752
+s8471
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Vocabulous_Prefix.pch
+c000000004CC0D49800000000000000BD
+t1287705752
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/WordListTableViewController.h
+c000000004CC111FC0000000000000139
+t1287721468
+s313
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app
+t1299044992
+s204
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app.dSYM
+t1299044992
+s102
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Info.plist
+t1299044708
+s603
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/MainWindow.nib
+t1299044708
+s987
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/PkgInfo
+t1299044708
+s8
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous
+t1299044992
+s24992
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/DefinitionViewController.o
+t1299044709
+s43556
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/Vocabulous.LinkFileList
+c000000004D6DD9640000000000000294
+t1299044708
+s660
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/VocabulousAppDelegate.o
+t1299044709
+s50500
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/WordListTableViewController.o
+t1299044992
+s52632
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/main.o
+t1299044709
+s6348
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/main.m
+c000000004CC0D4980000000000000174
+t1287705752
+s372
+i<UIKit/UIKit.h>
+
+N/var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Vocabulous_Prefix-hjxokngfqbtvxxcdiacuxevrkocz/Vocabulous_Prefix.pch.gch
+t1299044709
+s15453392
+
+NVocabulous-Info.plist
+c000000004CC0D498000000000000038D
+t1287705752
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320737791#320737791#0(0"0(0#1#0"8613227264#0"0#
+
+CCompileC build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/DefinitionViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/DefinitionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320737509.582349
+e320737509.768450
+r1
+xCompileC
+xbuild/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/DefinitionViewController.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/DefinitionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/DefinitionViewController.m320737509#320737509#0(0"0(0#0#95"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/DefinitionViewController.m8609695552#2293"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Vocabulous_Prefix-hjxokngfqbtvxxcdiacuxevrkocz/Vocabulous_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/DefinitionViewController.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/DefinitionViewController.o"0#
+
+CCompileC build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/VocabulousAppDelegate.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/VocabulousAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320737509.580797
+e320737509.762748
+r1
+xCompileC
+xbuild/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/VocabulousAppDelegate.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/VocabulousAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/VocabulousAppDelegate.m320737509#320737509#0(0"0(0#0#92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/VocabulousAppDelegate.m8612796448#2287"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Vocabulous_Prefix-hjxokngfqbtvxxcdiacuxevrkocz/Vocabulous_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/VocabulousAppDelegate.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/VocabulousAppDelegate.o"0#
+
+CCompileC build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/WordListTableViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/../WordListTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320737791.976087
+e320737792.073445
+r1
+xCompileC
+xbuild/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/WordListTableViewController.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/../WordListTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/../WordListTableViewController.m320737791#320737792#0(0"0(0#0#101"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/../WordListTableViewController.m8610193952#2302"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Vocabulous_Prefix-hjxokngfqbtvxxcdiacuxevrkocz/Vocabulous_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/../WordListTableViewController.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/WordListTableViewController.o"0#
+
+CCompileC build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/main.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320737509.579936
+e320737509.752950
+r1
+xCompileC
+xbuild/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/main.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/main.m320737509#320737509#0(0"0(0#0#67"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/main.m8612394560#2245"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Vocabulous_Prefix-hjxokngfqbtvxxcdiacuxevrkocz/Vocabulous_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/main.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/MainWindow.xib"
+s320737508.201842
+e320737508.546753
+r1
+xCompileXIB
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320737508#320737508#0(0"0(0#0#75"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/MainWindow.xib8603521312#645"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/MainWindow.nib" "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app.dSYM" "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous"
+s320737792.094494
+e320737792.110165
+r1
+xGenerateDSYMFile
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app.dSYM
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Vocabulous.app.dSYM build/Debug-iphonesimulator/Vocabulous.app/Vocabulous320737792#320737792#0(0"0(0#0#114"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous8610328320#464"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app.dSYM"0#
+
+CLd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous" normal i386
+s320737792.073522
+e320737792.094423
+r1
+xLd
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous
+xnormal
+xi386
+lSLF07#2@119"Link /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous320737792#320737792#0(0"0(0#0#0"8612372480#1035"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator" -filelist "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/Vocabulous.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Vocabulous"0#
+
+CProcessInfoPlistFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Info.plist" Vocabulous-Info.plist
+s320737508.175126
+e320737508.201773
+r1
+xProcessInfoPlistFile
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Info.plist
+xVocabulous-Info.plist
+lSLF07#2@29"Process Vocabulous-Info.plist320737508#320737508#0(0"0(0#0#82"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Vocabulous-Info.plist7811904093214176256#560"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Vocabulous-Info.plist -genpkginfo "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Info.plist"0#
+
+CProcessPCH /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Vocabulous_Prefix-hjxokngfqbtvxxcdiacuxevrkocz/Vocabulous_Prefix.pch.gch Vocabulous_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320737508.546943
+e320737509.579857
+r1
+xProcessPCH
+x/var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Vocabulous_Prefix-hjxokngfqbtvxxcdiacuxevrkocz/Vocabulous_Prefix.pch.gch
+xVocabulous_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Vocabulous_Prefix.pch320737508#320737509#0(0"0(0#0#82"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Vocabulous_Prefix.pch8609741632#2110"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Vocabulous-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/DerivedSources" -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Vocabulous_Prefix.pch" -o /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Vocabulous_Prefix-hjxokngfqbtvxxcdiacuxevrkocz/Vocabulous_Prefix.pch.gch0#
+
+CTouch "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app"
+s320737792.110229
+e320737792.112160
+r1
+xTouch
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app
+lSLF07#2@109"Touch /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app320737792#320737792#0(0"0(0#0#0"8607440256#329"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app"0#
+

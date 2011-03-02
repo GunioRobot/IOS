@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ImaginariumAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {839, 341}}";
+			sepNavSelRange = "{393, 0}";
+			sepNavVisRange = "{0, 393}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ImaginariumAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {839, 700}}";
+			sepNavSelRange = "{375, 0}";
+			sepNavVisRange = "{0, 740}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Imaginarium */ = {
+		activeExec = 0;
+		executables = (
+			EC774AA3126E6B1F00114CC8 /* Imaginarium */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC774AA3126E6B1F00114CC8 /* Imaginarium */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Imaginarium */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Imaginarium */,
+		);
+		codeSenseManager = EC774ABB126E6B2E00114CC8 /* Code sense */;
+		executables = (
+			EC774AA3126E6B1F00114CC8 /* Imaginarium */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					661,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309226271;
+			PBXWorkspaceStateSaveDate = 309226271;
+		};
+		perUserProjectItems = {
+			EC774AD8126E80ED00114CC8 /* PBXBookmark */ = EC774AD8126E80ED00114CC8 /* PBXBookmark */;
+			EC774AD9126E80ED00114CC8 /* PBXTextBookmark */ = EC774AD9126E80ED00114CC8 /* PBXTextBookmark */;
+			EC774ADA126E80ED00114CC8 /* PBXTextBookmark */ = EC774ADA126E80ED00114CC8 /* PBXTextBookmark */;
+			EC774AE3126E80ED00114CC8 /* PBXTextBookmark */ = EC774AE3126E80ED00114CC8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC774ABA126E6B2E00114CC8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EC774AA3126E6B1F00114CC8 /* Imaginarium */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Imaginarium;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EC774ABA126E6B2E00114CC8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC774ABB126E6B2E00114CC8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC774AD8126E80ED00114CC8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EC774ABC126E6B6200114CC8 /* ipod.jpg */;
+	};
+	EC774AD9126E80ED00114CC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ImaginariumAppDelegate.h */;
+		name = "ImaginariumAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 393;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	EC774ADA126E80ED00114CC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ImaginariumAppDelegate.m */;
+		name = "ImaginariumAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 780;
+	};
+	EC774AE3126E80ED00114CC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ImaginariumAppDelegate.m */;
+		name = "ImaginariumAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,51 @@
+TImaginarium
+v7
+r1
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/MainWindow.xib
+c000000004CBE339F000000000000211C
+t1287533471
+s8476
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug/Imaginarium.app
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug/Imaginarium.app/Contents/Info.plist
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug/Imaginarium.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug/Imaginarium.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug/Imaginarium.app/Contents/Resources/ipod.jpg
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/ipod.jpg
+c000000004CBE33BA0000000000031816
+t1287533498
+s202774
+
+NImaginarium-Info.plist
+c000000004CBE339F000000000000038D
+t1287533471
+s909
+
+CCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/MainWindow.xib"
+r0
+
+CCpResource build/Debug/Imaginarium.app/Contents/Resources/ipod.jpg ipod.jpg
+r0
+
+CProcessInfoPlistFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug/Imaginarium.app/Contents/Info.plist" Imaginarium-Info.plist
+r0
+
+CTouch "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/build/Debug/Imaginarium.app"
+r0
+
