@@ -1,0 +1,738 @@
+TPlaces
+v7
+r0
+t321270219.300468
+cCheck dependencies
+cProcessInfoPlistFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Info.plist" Places-Info.plist
+cCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/Places.app/icon_list_numbers.png icon_list_numbers.png
+cProcessPCH /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch.gch Places_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacePhotosTableViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoScrollViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places" normal i386
+cGenerateDSYMFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app.dSYM" "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places"
+cTouch "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrAPIKey.h
+c000000004D74790000000000000000D9
+t1299478784
+s217
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.h
+c000000004CBF529B0000000000000678
+t1287606939
+s1656
+i<Foundation/Foundation.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m
+c000000004CBF52A000000000000011F3
+t1287606944
+s4595
+i"FlickrFetcher.h"
+i"FlickrAPIKey.h"
+i"JSON.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/JSON.h
+c000000004B74DB5500000000000008F9
+t1265949525
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.h
+c000000004B74DB550000000000000A01
+t1265949525
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m
+c000000004B74DB55000000000000089E
+t1265949525
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.h
+c000000004B74DB550000000000000916
+t1265949525
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m
+c000000004B74DB55000000000000087D
+t1265949525
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.h
+c000000004B74DB550000000000000AED
+t1265949525
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m
+c000000004B74DB550000000000001ABC
+t1265949525
+s6844
+i"SBJSON.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.h
+c000000004B74DB550000000000000B82
+t1265949525
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m
+c000000004B74DB550000000000000AC1
+t1265949525
+s2753
+i"SBJsonBase.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.h
+c000000004B74DB550000000000000C0B
+t1265949525
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m
+c000000004B74DB5500000000000036CF
+t1265949525
+s14031
+i"SBJsonParser.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.h
+c000000004B74DB550000000000001140
+t1265949525
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m
+c000000004B74DB550000000000001E83
+t1265949525
+s7811
+i"SBJsonWriter.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h
+c000000004D75ED2A0000000000000196
+t1299574058
+s406
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m
+c000000004D75F4FD0000000000000997
+t1299576061
+s2455
+i"PhotoScrollViewController.h"
+i"FlickrFetcher.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.h
+c000000004D75868E0000000000000154
+t1299547790
+s340
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m
+c000000004D75EC5F0000000000001851
+t1299573855
+s6225
+i"PlacePhotosTableViewController.h"
+i"PhotoScrollViewController.h"
+i"FlickrFetcher.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.h
+c000000004D747A6B000000000000018C
+t1299479147
+s396
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m
+c000000004D7577570000000000000C96
+t1299543895
+s3222
+i"PlacesAppDelegate.h"
+i"TopPlacesTableViewController.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.h
+c000000004D7574540000000000000115
+t1299543124
+s277
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m
+c000000004D75C31D00000000000017D4
+t1299563293
+s6100
+i"TopPlacesTableViewController.h"
+i"PlacePhotosTableViewController.h"
+i"FlickrFetcher.h"
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/MainWindow.xib
+c000000004D6DE8560000000000002103
+t1299048534
+s8451
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Places_Prefix.pch
+c000000004D6DE85600000000000000B5
+t1299048534
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app
+t1299576063
+s238
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app.dSYM
+t1299576063
+s102
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Info.plist
+t1299478594
+s587
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/MainWindow.nib
+t1299478595
+s983
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/PkgInfo
+t1299478594
+s8
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places
+t1299576063
+s76040
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/icon_list_numbers.png
+t1299544846
+s399
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o
+t1299478882
+s18636
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o
+t1299478882
+s8364
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o
+t1299478882
+s8284
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoScrollViewController.o
+t1299576063
+s48692
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacePhotosTableViewController.o
+t1299574059
+s52392
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/Places.LinkFileList
+c000000004D75CF230000000000000703
+t1299566371
+s1795
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o
+t1299543899
+s55852
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o
+t1299478882
+s20152
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o
+t1299478882
+s13284
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o
+t1299478882
+s35984
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o
+t1299478882
+s24928
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o
+t1299563293
+s53088
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o
+t1299478595
+s6340
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/FlickrFetcher.plist
+t1299544275
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist
+t1299544275
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist
+t1299544275
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PhotoScrollViewController.plist
+t2
+s0
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PlacePhotosTableViewController.plist
+t1299566373
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PlacesAppDelegate.plist
+t1299544275
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJSON.plist
+t1299544275
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonBase.plist
+t1299544275
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonParser.plist
+t1299544278
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist
+t1299544275
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/TopPlacesTableViewController.plist
+t1299566373
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/main.plist
+t1299544275
+s276
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/icon_list_numbers.png
+c000000004AA91296000000000000018F
+t1252594326
+s399
+
+N/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m
+c000000004D6DE856000000000000016B
+t1299048534
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch.gch
+t1299478595
+s15453392
+
+N/var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch.pth
+t1299544275
+s2784060
+
+NPlaces-Info.plist
+c000000004D6DE856000000000000038D
+t1299048534
+s909
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m"
+s321237075.561654
+e321237075.615837
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m
+lSLF07#2@102"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m321237075#321237075#0(0"0(0#0#94"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m8618825664#2170"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/FlickrFetcher.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m"
+s321237075.606223
+e321237075.642779
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m
+lSLF07#2@109"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m321237075#321237075#0(0"0(0#0#101"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m8616694080#2179"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m"
+s321237075.608796
+e321237075.647007
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m
+lSLF07#2@109"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m321237075#321237075#0(0"0(0#0#101"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m8615485696#2179"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m"
+s321237075.615917
+e321237075.661777
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m
+lSLF07#2@100"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m321237075#321237075#0(0"0(0#0#92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m8609363808#2161"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJSON.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m"
+s321237075.642859
+e321237075.693695
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m
+lSLF07#2@104"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m321237075#321237075#0(0"0(0#0#96"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m8618714048#2169"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonBase.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m"
+s321237075.647080
+e321237078.772246
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m
+lSLF07#2@106"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m321237075#321237078#0(0"0(0#0#98"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m8616058848#2173"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonParser.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m"
+s321237075.659002
+e321237075.764384
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m
+lSLF07#2@106"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m321237075#321237075#0(0"0(0#0#98"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m8599995744#2173"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m"
+s321259171.701263
+e321259173.232428
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m
+oIn file included from /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m:9:
+o/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:16:1: error: type name requires a specifier or qualifier
+o @end
+o ^
+o/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:16:1: error: expected member name or ';' after declaration specifiers
+o @end
+o ^
+o/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:15:1: error: property requires fields to be named
+o @property (retain)
+o ^
+o/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:15:19: error: expected ';' at end of declaration list
+o @property (retain)
+o                   ^
+o                   ;
+o/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:16:2: error: unknown type name 'end'
+o @end
+o  ^
+o/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m:12:2: error: prefix attribute must be followed by an interface or protocol
+o @implementation PhotoScrollViewController
+o  ^
+o/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m:65:5: error: missing @end
+o @end
+o     ^
+o7 errors generated.
+lSLF07#2@100"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m321259171#321259173#0(1331"In file included from /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m:9:/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:16:1: error: type name requires a specifier or qualifier @end ^/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:16:1: error: expected member name or ';' after declaration specifiers @end ^/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:15:1: error: property requires fields to be named @property (retain) ^/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:15:19: error: expected ';' at end of declaration list @property (retain)                   ^                   ;/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h:16:2: error: unknown type name 'end' @end  ^/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m:12:2: error: prefix attribute must be followed by an interface or protocol @implementation PhotoScrollViewController  ^/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m:65:5: error: missing @end @end     ^7 errors generated.1(25@46"Analyzer skipped this file due to parse errors321259173#18446744073709551615#0#7(25@43"type name requires a specifier or qualifier321259173#18446744073709551615#0#0(6@92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h321259171#16#0#16#0#0"0(25@56"expected member name or ';' after declaration specifiers321259173#18446744073709551615#0#0(6@92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h321259171#16#0#16#0#0"0(25@36"property requires fields to be named321259173#18446744073709551615#0#0(6@92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h321259171#15#0#15#0#0"0(25@39"expected ';' at end of declaration list321259173#18446744073709551615#0#0(6@92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h321259171#15#0#15#0#0"0(25@23"unknown type name 'end'321259173#18446744073709551615#0#0(6@92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h321259171#16#0#16#0#0"0(25@61"prefix attribute must be followed by an interface or protocol321259173#18446744073709551615#0#0(6@92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m321258687#12#0#12#0#0"0(25@12"missing @end321259173#18446744073709551615#0#0(6@92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m321258687#65#0#65#0#0"0(6@92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.h321259171#0#0#0#0#0"0(0#0#92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m8645066560#2180"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PhotoScrollViewController.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m"
+s321259171.670006
+e321259173.251238
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m
+lSLF07#2@105"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m321259171#321259173#0(0"0(0#0#97"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m8648882368#2190"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PlacePhotosTableViewController.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m"
+s321237075.560905
+e321237075.606139
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m
+lSLF07#2@92"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m321237075#321237075#0(0"0(0#0#84"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m8618966752#2164"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PlacesAppDelegate.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m"
+s321259171.669198
+e321259173.248939
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m
+lSLF07#2@103"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m321259171#321259173#0(0"0(0#0#95"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m8650228576#2186"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/TopPlacesTableViewController.plist"0#
+
+CAnalyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m"
+s321237075.560013
+e321237075.608539
+r1
+xAnalyze
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m
+lSLF07#2@71"Analyze /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m321237075#321237075#0(0"0(0#0#63"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m8619493408#2130"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch --analyze "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321270219#321270219#0(0"0(0#1#0"8643366592#0"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171682.293940
+e321171682.356403
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m321171682#321171682#0(0"0(0#0#94"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m8615975008#2161"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/FlickrFetcher.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171682.294737
+e321171682.383849
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m321171682#321171682#0(0"0(0#0#101"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m8615276672#2170"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSObject+SBJSON.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171682.295494
+e321171682.337251
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m321171682#321171682#0(0"0(0#0#101"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m8614937696#2170"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/NSString+SBJSON.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoScrollViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321268863.129161
+e321268863.221088
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoScrollViewController.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m321268863#321268863#0(0"0(0#0#92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m8655381696#2171"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PhotoScrollViewController.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoScrollViewController.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacePhotosTableViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321266859.546232
+e321266859.606982
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacePhotosTableViewController.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m321266859#321266859#0(0"0(0#0#97"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m8644229216#2181"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacePhotosTableViewController.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacePhotosTableViewController.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321236699.433395
+e321236699.529955
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m321236699#321236699#0(0"0(0#0#84"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m8616822944#2155"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/PlacesAppDelegate.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171682.337335
+e321171682.397692
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m321171682#321171682#0(0"0(0#0#92"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m8615999136#2152"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJSON.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171682.356486
+e321171682.406709
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m321171682#321171682#0(0"0(0#0#96"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m8615463552#2160"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonBase.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171682.383934
+e321171682.466980
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m321171682#321171682#0(0"0(0#0#98"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m8607151360#2164"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonParser.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171682.397787
+e321171682.456336
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m321171682#321171682#0(0"0(0#0#98"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m8606973472#2164"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/FlickrFetcher/JSON/SBJsonWriter.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321256093.451521
+e321256093.548973
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m321256093#321256093#0(0"0(0#0#95"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m8614962656#2177"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Classes/TopPlacesTableViewController.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171395.800981
+e321171395.922731
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m321171395#321171395#0(0"0(0#0#63"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m8607097696#2121"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -include /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/main.m" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/MainWindow.xib"
+s321171394.939992
+e321171395.266913
+r1
+xCompileXIB
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321171394#321171395#0(0"0(0#0#71"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/MainWindow.xib8604405408#629"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/MainWindow.nib" "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Places.app/icon_list_numbers.png icon_list_numbers.png
+s321237646.729228
+e321237646.764102
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Places.app/icon_list_numbers.png
+xicon_list_numbers.png
+lSLF07#2@26"Copy icon_list_numbers.png321237646#321237646#0(0"0(0#0#78"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/icon_list_numbers.png8619222176#538"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/icon_list_numbers.png" "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app"0#
+
+CGenerateDSYMFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app.dSYM" "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places"
+s321268863.308146
+e321268863.328766
+r1
+xGenerateDSYMFile
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app.dSYM
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Places.app.dSYM build/Debug-iphonesimulator/Places.app/Places321268863#321268863#0(0"0(0#0#102"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places8643795328#440"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places" -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app.dSYM"0#
+
+CLd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places" normal i386
+s321268863.221159
+e321268863.308066
+r1
+xLd
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places
+xnormal
+xi386
+lSLF07#2@107"Link /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places321268863#321268863#0(0"0(0#0#0"8655486560#995"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" -filelist "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/Places.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Places"0#
+
+CProcessInfoPlistFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Info.plist" Places-Info.plist
+s321171394.919436
+e321171394.939920
+r1
+xProcessInfoPlistFile
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Info.plist
+xPlaces-Info.plist
+lSLF07#2@25"Process Places-Info.plist321171394#321171394#0(0"0(0#0#74"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Places-Info.plist7297009404609131520#536"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Places-Info.plist -genpkginfo "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app/Info.plist"0#
+
+CProcessPCH /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch.gch Places_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171395.267032
+e321171395.800901
+r1
+xProcessPCH
+x/var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch.gch
+xPlaces_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Places_Prefix.pch321171395#321171395#0(0"0(0#0#74"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Places_Prefix.pch8608465280#1994"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Places_Prefix.pch" -o /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-bbmkvynaqblduydktveoivrvbgfv/Places_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch.pth Places_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s321237074.518743
+e321237075.518860
+r1
+xProcessPCH
+x/var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch.pth
+xPlaces_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@28"Precompile Places_Prefix.pch321237074#321237075#0(0"0(0#0#74"/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Places_Prefix.pch8607057472#1985"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap" -iquote "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap" "-F/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/include" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386" "-I/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources" -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/Places_Prefix.pch" -o /var/folders/LR/LR8t4U9tELKrTmKbRH-SiprGiFc/-Caches-/com.apple.Xcode.1574091034/SharedPrecompiledHeaders/Places_Prefix-dlqrckrbmtcedxdknfucozlbgixg/Places_Prefix.pch.pth0#
+
+CTouch "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app"
+s321268863.328837
+e321268863.330788
+r1
+xTouch
+x/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app
+lSLF07#2@101"Touch /Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app321268863#321268863#0(0"0(0#0#0"8640766240#317"    cd "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Places/build/Debug-iphonesimulator/Places.app"0#
+

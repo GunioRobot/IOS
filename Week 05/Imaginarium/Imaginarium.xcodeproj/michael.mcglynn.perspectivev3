@@ -278,7 +278,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {185, 428}}</string>
+							<string>{{0, 0}, {185, 936}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -288,14 +288,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {202, 446}}</string>
+						<string>{{0, 0}, {202, 954}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>185</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>21 908 810 487 0 0 2560 1418 </string>
+						<string>-1680 344 1680 995 -1680 289 1680 1050 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -332,9 +332,9 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {603, 0}}</string>
+								<string>{{0, 0}, {1473, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>21 908 810 487 0 0 2560 1418 </string>
+								<string>-1680 344 1680 995 -1680 289 1680 1050 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -343,7 +343,7 @@
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>441pt</string>
+							<string>949pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -357,9 +357,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {603, 414}}</string>
+										<string>{{10, 27}, {1473, 922}}</string>
 										<key>RubberWindowFrame</key>
-										<string>21 908 810 487 0 0 2560 1418 </string>
+										<string>-1680 344 1680 995 -1680 289 1680 1050 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -422,7 +422,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>603pt</string>
+					<string>1473pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -441,11 +441,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>BD2956BA131E1F840053A9E3</string>
+				<string>BD319FEB132607750020746F</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>BD2956BB131E1F840053A9E3</string>
+				<string>BD319FEC132607750020746F</string>
 				<string>BD2956B8131E1F840053A9E3</string>
-				<string>BD2956BC131E1F840053A9E3</string>
+				<string>BD319FED132607750020746F</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -618,7 +618,7 @@
 		<string>/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Imaginarium/Imaginarium.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>21 908 810 487 0 0 2560 1418 </string>
+	<string>-1680 344 1680 995 -1680 289 1680 1050 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

@@ -10,9 +10,10 @@
 
 @interface PlacesAppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
+	UITabBarController *tbc;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
-
+@property (retain) UITabBarController *tbc;
 @end
 

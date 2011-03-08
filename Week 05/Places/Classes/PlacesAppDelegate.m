@@ -7,6 +7,8 @@
 //
 
 #import "PlacesAppDelegate.h"
+#import "TopPlacesTableViewController.h"
+
 
 @implementation PlacesAppDelegate
 
@@ -16,10 +18,23 @@
 #pragma mark -
 #pragma mark Application lifecycle
 
+@synthesize tbc;
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
     // Override point for customization after application launch.
-    
+    UINavigationController *placesNavController = [[UINavigationController alloc] init];
+	TopPlacesTableViewController *placesTableViewController = [[TopPlacesTableViewController alloc] init];
+	[placesNavController pushViewController:placesTableViewController animated:NO];
+	[placesTableViewController release];
+	
+	UINavigationController *recentNavController = [[UINavigationController alloc] init];
+	
+	self.tbc = [[UITabBarController alloc] init];
+	self.tbc.viewControllers = [NSArray arrayWithObjects: placesNavController, recentNavController, nil];
+	[placesNavController release]; [recentNavController release];
+	
+	[self.window addSubview:self.tbc.view];
     [self.window makeKeyAndVisible];
     
     return YES;

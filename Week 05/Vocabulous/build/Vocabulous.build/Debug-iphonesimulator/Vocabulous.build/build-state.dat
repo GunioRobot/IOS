@@ -1,7 +1,7 @@
 TVocabulous
 v7
 r0
-t320737792.112182
+t321171148.216078
 cCheck dependencies
 cProcessInfoPlistFile "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/build/Debug-iphonesimulator/Vocabulous.app/Info.plist" Vocabulous-Info.plist
 cCompileXIB "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/MainWindow.xib"
@@ -156,7 +156,7 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies320737791#320737791#0(0"0(0#1#0"8613227264#0"0#
+lSLF07#2@18"Check dependencies321171148#321171148#0(0"0(0#1#0"8247620834010738688#0"0#
 
 CCompileC build/Vocabulous.build/Debug-iphonesimulator/Vocabulous.build/Objects-normal/i386/DefinitionViewController.o "/Users/michael.mcglynn/Sites/Learning/IOS/Week 05/Vocabulous/Classes/DefinitionViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s320737509.582349
