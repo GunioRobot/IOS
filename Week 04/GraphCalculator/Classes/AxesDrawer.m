@@ -24,19 +24,19 @@
 	if ([text length])
 	{
 		UIFont *font = [UIFont systemFontOfSize:HASH_MARK_FONT_SIZE];
-		
+
 		CGRect textRect;
 		textRect.size = [text sizeWithFont:font];
 		textRect.origin.x = location.x - textRect.size.width / 2;
 		textRect.origin.y = location.y - textRect.size.height / 2;
-		
+
 		switch (anchor) {
 			case ANCHOR_TOP: textRect.origin.y += textRect.size.height / 2 + VERTICAL_TEXT_MARGIN; break;
 			case ANCHOR_LEFT: textRect.origin.x += textRect.size.width / 2+ HORIZONTAL_TEXT_MARGIN; break;
 			case ANCHOR_BOTTOM: textRect.origin.y -= textRect.size.height / 2 + VERTICAL_TEXT_MARGIN; break;
 			case ANCHOR_RIGHT: textRect.origin.x -= textRect.size.width / 2+ HORIZONTAL_TEXT_MARGIN; break;
 		}
-		
+
 		[text drawInRect:textRect withFont:font];
 	}
 }
@@ -77,10 +77,10 @@
 			return;
 		}
 	}
-	
+
 	CGContextRef context = UIGraphicsGetCurrentContext();
 	CGContextBeginPath(context);
-	
+
 
 	int started = NO;
 	int stillGoing = YES;
@@ -138,7 +138,7 @@
 		if (drew) started = YES;
 		stillGoing = drew;
 	}
-	
+
 	CGContextStrokePath(context);
 }
 

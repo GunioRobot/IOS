@@ -47,7 +47,7 @@
 	self.faceView.delegate = self;
 	[self updateUI];
 }
-		
+
 - (void)releaseOutlets
 {
 	self.faceView = nil;

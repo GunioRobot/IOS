@@ -9,9 +9,9 @@
 #import <UIKit/UIKit.h>
 #import "CalculatorBrain.h"
 
-@interface CalculatorViewController : UIViewController 
+@interface CalculatorViewController : UIViewController
 {
-	IBOutlet UILabel *display;	
+	IBOutlet UILabel *display;
 	BOOL userIsInTheMiddleOfTypingANumber;
 	CalculatorBrain *brain;
 }

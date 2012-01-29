@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@class GraphView; //Lookahead 
+@class GraphView; //Lookahead
 
 @protocol GraphViewDelegate
 - (float)yForXvalue:(float)xValue forGraphView:(GraphView *)requestor;
@@ -18,7 +18,7 @@
 	CGFloat scale;
 	CGPoint	originOffset;
 	id <GraphViewDelegate> delegate;
-	
+
 }
 
 @property CGFloat scale;

@@ -13,8 +13,8 @@
 @interface GraphViewController : UIViewController <GraphViewDelegate>{
 	int graphScale;
 	id expression;
-	
-	IBOutlet GraphView *graphView;	
+
+	IBOutlet GraphView *graphView;
 }
 
 @property int graphScale;
@@ -22,8 +22,8 @@
 
 @property (retain) IBOutlet GraphView *graphView;
 
-- (IBAction)zoomIn:(UIButton *)sender; 
-- (IBAction)zoomOut:(UIButton *)sender; 
+- (IBAction)zoomIn:(UIButton *)sender;
+- (IBAction)zoomOut:(UIButton *)sender;
 
 - (void)releaseOutlets;
 @end

@@ -12,8 +12,8 @@
 
 @interface GraphViewController : UIViewController <GraphViewDelegate, UISplitViewControllerDelegate>{
 	id expression;
-	
-	IBOutlet GraphView *graphView;	
+
+	IBOutlet GraphView *graphView;
 }
 
 @property (retain) id expression;

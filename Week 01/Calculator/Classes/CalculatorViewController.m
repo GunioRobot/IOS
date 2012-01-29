@@ -23,7 +23,7 @@
 - (IBAction)digitPressed:(UIButton *)sender
 {
 	NSString *digit	= sender.titleLabel.text;
-	
+
 	if(userIsInTheMiddleOfTypingANumber)
 	{
 		if([digit isEqual:(@".")]){
@@ -32,7 +32,7 @@
 		}
 		display.text = [display.text stringByAppendingString:digit];
 	}
-	else 
+	else
 	{
 		if([digit isEqual:(@".")]){
 			digit = [@"0" stringByAppendingString:digit];
@@ -40,7 +40,7 @@
 		display.text = digit;
 		userIsInTheMiddleOfTypingANumber = YES;
 	}
-						  
+
 }
 
 - (IBAction)operationPressed:(UIButton *)sender
@@ -50,7 +50,7 @@
 		self.brain.operand = [display.text doubleValue];
 		userIsInTheMiddleOfTypingANumber = NO;
 	}
-	
+
 	NSString *operation	= sender.titleLabel.text;
 	[self.brain performOperation:operation];
 	display.text = [NSString stringWithFormat:@"%g", self.brain.operand];

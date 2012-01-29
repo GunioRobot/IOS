@@ -22,7 +22,7 @@
 - (NSMutableArray *)internalExpression
 {
 	if(!internalExpression) internalExpression = [[NSMutableArray alloc] init];
-	return internalExpression;		
+	return internalExpression;
 }
 
 -(void) addTermToExpression:(id)term
@@ -30,7 +30,7 @@
 	[self.internalExpression addObject:term];
 	//NSLog(@"Term Added: %@", [self.internalExpression lastObject]);
 	//NSLog(@"expression = %@", internalExpression);
-	//NSLog(@"Current Expression: %@", self.internalExpression); 
+	//NSLog(@"Current Expression: %@", self.internalExpression);
 }
 
 - (id)expression
@@ -41,13 +41,13 @@
 - (void)setOperand:(double)aDouble
 {
 	[self addTermToExpression:[NSNumber numberWithDouble:aDouble]];
-	operand = aDouble;	
+	operand = aDouble;
 }
 
 - (void)setVariableAsOperand:(NSString *)variableName
 {
 	[self addTermToExpression:[VARIABLE_PREFIX stringByAppendingString:variableName]];
-} 
+}
 
 
 - (void)performWaitingOperation
@@ -71,13 +71,13 @@
 			operand = self.waitingOperand / operand;
 		}
 	}
-}	
-	
-- (double)performOperation:(NSString *)operation 
+}
+
+- (double)performOperation:(NSString *)operation
 {
 	[self addTermToExpression:operation];
 //	[self.internalExpression addObject:operation];
-	
+
 	if([operation isEqual:@"sqrt"])
 	{
 		operand = sqrt(operand);
@@ -127,7 +127,7 @@
 		self.waitingOperation = operation;
 		self.waitingOperand = operand;
 	}
-		
+
 	return operand;
 }
 
@@ -135,7 +135,7 @@
 		 usingVariableValues:(NSDictionary *)variables
 {
 	CalculatorBrain *brain = [[CalculatorBrain alloc] init];
-		
+
 	for(id obj in anExpression)
 	{
 		if([obj isKindOfClass:[NSNumber class]])
@@ -147,7 +147,7 @@
 			//NSLog(@"Current term: %@", obj);
 			if(([obj rangeOfString:VARIABLE_PREFIX].location == 0) && ([obj length] > [VARIABLE_PREFIX length]))
 			 {
-				 // Term is a variable, perform the substitution. 
+				 // Term is a variable, perform the substitution.
 				 double sub = [[variables objectForKey:[obj substringFromIndex:1]] doubleValue];
 				// NSLog(@"Substituting %g for %@", sub, [obj substringFromIndex:1]);
 				 [brain setOperand: sub];
@@ -158,13 +158,13 @@
 			}
 		}
 	}
-	
+
 	if(![[anExpression lastObject] isEqual:@"="])
 	{
 		//If there is no "=" at the end of the expression, add one in
 		[brain performOperation:@"="];
 	}
-	
+
 	double result = brain.operand;
 	//NSLog(@"Result = %g", result);
 	[brain release];
@@ -184,7 +184,7 @@
 			}
 		}
 	}
-	
+
 	return uniqueVariables;
 }
 

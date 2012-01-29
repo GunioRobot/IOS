@@ -22,16 +22,16 @@
 }
 
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
-    
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+
 	// Set up UINavigationView Controller as root view controller
 	// & push  CalculatorViewController on as starting view (and release)
-	
+
     UINavigationController *nvc = [[UINavigationController alloc] init];
 	CalculatorViewController *cvc = [[CalculatorViewController alloc] init];
 	cvc.title = @"Calculator";
 	[nvc pushViewController:cvc animated:NO];
-	
+
 	if(self.iPad)
 	{
 		NSLog(@"iPad");
@@ -43,15 +43,15 @@
 		[nvc release]; [rightNav release];
 		[window addSubview:svc.view];
 	}
-	else 
+	else
 	{
 		NSLog(@"iPhone");
 		[window addSubview:nvc.view];
-	}	
-	
+	}
+
 	[cvc release];
     [self.window makeKeyAndVisible];
-    
+
     return YES;
 }
 
@@ -71,7 +71,7 @@
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
     /*
-     Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later. 
+     Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
      If your application supports background execution, called instead of applicationWillTerminate: when the user quits.
      */
 	[self saveState];

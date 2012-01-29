@@ -36,14 +36,14 @@
 - (void)collect:(UIButton *)sender
 {
 	NSString *title = sender.titleLabel.text;
-	
+
 	double numericValue = [title doubleValue];
 	if (numericValue) {
 		[model collect:[NSNumber numberWithDouble:numericValue]];
 	} else {
 		[model collect:title];
 	}
-	
+
 	[self updateUI];
 }
 

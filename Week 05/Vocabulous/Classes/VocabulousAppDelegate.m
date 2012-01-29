@@ -16,8 +16,8 @@
 #pragma mark -
 #pragma mark Application lifecycle
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
-    
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+
     WordListTableViewController *wltvc = [[WordListTableViewController alloc] init];
 	UINavigationController *nav = [[UINavigationController alloc] init];
 	[nav pushViewController:wltvc animated:NO];

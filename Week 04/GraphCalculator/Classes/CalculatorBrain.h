@@ -9,11 +9,11 @@
 #import <Foundation/Foundation.h>
 
 
-@interface CalculatorBrain : NSObject 
+@interface CalculatorBrain : NSObject
 {
 	double operand;
 	double waitingOperand;
-	double memory;	
+	double memory;
 	NSString *waitingOperation;
 	NSMutableArray *internalExpression;
 }
@@ -22,15 +22,15 @@
 @property (copy) NSString *waitingOperation;
 @property (readonly) id expression;
 
-- (void)setOperand:(double)aDouble; 
-- (void)setVariableAsOperand:(NSString *)variableName; 
+- (void)setOperand:(double)aDouble;
+- (void)setVariableAsOperand:(NSString *)variableName;
 - (double)performOperation:(NSString *)operation;
 
 + (double)evaluateExpression:(id)anExpression
-		 usingVariableValues:(NSDictionary *)variables; 
+		 usingVariableValues:(NSDictionary *)variables;
 
 + (NSSet *)variablesInExpression:(id)anExpression;
-+ (NSString *)descriptionOfExpression:(id)anExpression; 
++ (NSString *)descriptionOfExpression:(id)anExpression;
 
 + (id)propertyListForExpression:(id)anExpression;
 + (id)expressionForPropertyList:(id)propertyList;

@@ -23,11 +23,11 @@
 {
 	if (![aPlace_id isEqualToString:place_id]){
 		place_id = aPlace_id;
-		
+
 	}
 }
 
--(NSArray *) photos 
+-(NSArray *) photos
 {
 	if(!photos)
 	{
@@ -35,7 +35,7 @@
 		photos = [[FlickrFetcher photosAtPlace:self.place_id] retain];
 		[UIApplication sharedApplication].networkActivityIndicatorVisible = NO;
 	}
-	
+
 	return photos;
 }
 
@@ -115,22 +115,22 @@
 
 // Customize the appearance of table view cells.
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    
+
 	static NSString *CellIdentifier = @"PlacePhotosCell";
-    
+
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
     if (cell == nil) {
         cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:CellIdentifier] autorelease];
     }
-	
+
 	NSString *title = [[self.photos objectAtIndex:indexPath.row] objectForKey:@"title"];
 	NSString *description = [[[self.photos objectAtIndex:indexPath.row] objectForKey:@"description"] objectForKey:@"_content"];
-	
-	cell.textLabel.text = ([title length] > 0) ? title : (([description length] > 0) ? description : @"Unknown");	
+
+	cell.textLabel.text = ([title length] > 0) ? title : (([description length] > 0) ? description : @"Unknown");
 
 	cell.detailTextLabel.text = ([title length] > 0) ? description : @"";
-	cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;    
-	
+	cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
+
     return cell;
 }
 
@@ -147,14 +147,14 @@
 /*
 // Override to support editing the table view.
 - (void)tableView:(UITableView *)tableView commitEditingStyle:(UITableViewCellEditingStyle)editingStyle forRowAtIndexPath:(NSIndexPath *)indexPath {
-    
+
     if (editingStyle == UITableViewCellEditingStyleDelete) {
         // Delete the row from the data source.
         [tableView deleteRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] withRowAnimation:UITableViewRowAnimationFade];
-    }   
+    }
     else if (editingStyle == UITableViewCellEditingStyleInsert) {
         // Create a new instance of the appropriate class, insert it into the array, and add a new row to the table view.
-    }   
+    }
 }
 */
 
@@ -186,17 +186,17 @@
      // Pass the selected object to the new view controller.
     [self.navigationController pushViewController:detailViewController animated:YES];
     [detailViewController release];
-	 
-	 
-	 
+
+
+
 	 farm, server, id, secret
     */
 	PhotoScrollViewController *photoScrollViewController = [[PhotoScrollViewController alloc] init];
 	photoScrollViewController.photoInfo = [self.photos objectAtIndex:indexPath.row];
 	[self.navigationController pushViewController:photoScrollViewController animated:YES];
     [photoScrollViewController release];
-} 
-	
+}
+
 
 #pragma mark -
 #pragma mark Memory management
@@ -204,7 +204,7 @@
 - (void)didReceiveMemoryWarning {
     // Releases the view if it doesn't have a superview.
     [super didReceiveMemoryWarning];
-    
+
     // Relinquish ownership any cached data, images, etc. that aren't in use.
 }
 

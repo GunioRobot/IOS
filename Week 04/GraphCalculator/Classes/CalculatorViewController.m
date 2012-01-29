@@ -29,12 +29,12 @@
 	if(!graphViewController) graphViewController =  [[GraphViewController alloc] init];
 	return graphViewController;
 }
-	
-	
+
+
 - (IBAction)digitPressed:(UIButton *)sender
 {
 	NSString *digit	= sender.titleLabel.text;
-	
+
 	if(self.userIsInTheMiddleOfTypingANumber)
 	{
 		if([digit isEqual:(@".")]){
@@ -43,7 +43,7 @@
 		}
 		self.display.text = [self.display.text stringByAppendingString:digit];
 	}
-	else 
+	else
 	{
 		if([digit isEqual:(@".")]){
 			digit = [@"0" stringByAppendingString:digit];
@@ -51,7 +51,7 @@
 		self.display.text = digit;
 		userIsInTheMiddleOfTypingANumber = YES;
 	}
-						  
+
 }
 
 - (IBAction)variablePressed:(UIButton *)sender
@@ -70,10 +70,10 @@
 		self.brain.operand = [self.display.text doubleValue];
 		self.userIsInTheMiddleOfTypingANumber = NO;
 	}
-	
+
 	NSString *operation	= sender.titleLabel.text;
 	[self.brain performOperation:operation];
-	
+
 	if([[CalculatorBrain variablesInExpression:self.brain.expression] count])
 	{
 		self.display.text = [CalculatorBrain descriptionOfExpression:self.brain.expression];
@@ -89,7 +89,7 @@
 	[self.brain performOperation:@"="];
 	self.graphViewController.title = [CalculatorBrain descriptionOfExpression:self.brain.expression];
 	self.graphViewController.expression = self.brain.expression; //this causes the graph to redraw
-	
+
 	// If graphViewController is not on screen, push it onto the navigation stack
 	if (self.graphViewController.view.window == nil)
 	{

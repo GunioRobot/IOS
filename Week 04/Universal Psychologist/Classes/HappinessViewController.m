@@ -71,7 +71,7 @@
 {
 	self.navigationItem.rightBarButtonItem = nil;
 }
-		
+
 - (void)releaseOutlets
 {
 	self.faceView = nil;

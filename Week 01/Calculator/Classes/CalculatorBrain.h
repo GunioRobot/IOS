@@ -9,9 +9,9 @@
 #import <Foundation/Foundation.h>
 
 
-@interface CalculatorBrain : NSObject 
+@interface CalculatorBrain : NSObject
 {
-	@private 
+	@private
 	double operand;
 	NSString *waitingOperation;
 	double waitingOperand;

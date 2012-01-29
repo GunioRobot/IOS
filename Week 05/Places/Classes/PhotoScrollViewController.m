@@ -28,19 +28,19 @@
 // Implement loadView to create a view hierarchy programmatically, without using a nib.
 - (void)loadView {
 	[super loadView];
-	
+
 	UIImage *image = [UIImage imageWithData:[FlickrFetcher imageDataForPhotoWithFlickrInfo:photoInfo format:FlickrFetcherPhotoFormatLarge]];
 	self.photoView = [[UIImageView alloc] initWithImage:image];
-	
+
 	CGRect applicationFrame = [[UIScreen mainScreen] applicationFrame];
 	UIScrollView *scrollView = [[UIScrollView alloc] initWithFrame:applicationFrame];
 	scrollView.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
-	
+
 	scrollView.contentSize = image.size;
 	[scrollView addSubview:self.photoView];
-	
+
 	scrollView.bounces = NO;
-	
+
 	scrollView.minimumZoomScale = 0.3;
 	scrollView.maximumZoomScale = 3.0;
 	scrollView.delegate = self;
@@ -72,7 +72,7 @@
 - (void)didReceiveMemoryWarning {
     // Releases the view if it doesn't have a superview.
     [super didReceiveMemoryWarning];
-    
+
     // Release any cached data, images, etc. that aren't in use.
 }
 

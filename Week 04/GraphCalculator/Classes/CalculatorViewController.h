@@ -10,11 +10,11 @@
 #import "CalculatorBrain.h"
 #import "GraphViewController.h"
 
-@interface CalculatorViewController : UIViewController 
+@interface CalculatorViewController : UIViewController
 {
 	BOOL userIsInTheMiddleOfTypingANumber;
 	CalculatorBrain *brain;
-	
+
 	IBOutlet UILabel *display;
 	GraphViewController *graphViewController;
 }

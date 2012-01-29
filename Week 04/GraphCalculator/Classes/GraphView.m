@@ -13,7 +13,7 @@
 @synthesize delegate;
 @synthesize originOffset;
 
-- (void)setup 
+- (void)setup
 {
 	self.contentMode = UIViewContentModeRedraw;
 	NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
@@ -22,7 +22,7 @@
 }
 
 - (id)initWithFrame:(CGRect)frame {
-    
+
     self = [super initWithFrame:frame];
     if (self) {
         // Initialization code.
@@ -53,14 +53,14 @@
 	if ([GraphView scaleIsValid:newScale]) {
 		if (newScale != scale) {
 			scale = newScale;
-			
+
 			NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
 			[userDefaults setObject:[NSNumber numberWithFloat:scale] forKey:@"scale"];
-			
-			
+
+
 			[self setNeedsDisplay];
 		}
-	}	
+	}
 }
 
 -(CGPoint)origin
@@ -69,14 +69,14 @@
 }
 
 
-- (void)setOriginOffset:(CGPoint)offSet 
+- (void)setOriginOffset:(CGPoint)offSet
 {
-	
+
 	originOffset = offSet;
-	
+
 	NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
 	[userDefaults setObject:NSStringFromCGPoint(originOffset) forKey:@"originOffset"];
-	
+
 	[self setNeedsDisplay];
 }
 
@@ -112,33 +112,33 @@
 - (void)drawRect:(CGRect)rect {
 	[[UIColor blueColor] set] ;
     [AxesDrawer drawAxesInRect:self.bounds originAtPoint:self.origin scale:self.scale];
-	
+
 	float contentScale = (float)self.contentScaleFactor;
-	
+
 	CGContextRef context = UIGraphicsGetCurrentContext();
 	CGContextBeginPath(context);
 
 	for (float i = self.bounds.origin.x; i <= self.bounds.size.width * contentScale; i++) {
-		float graphX = (i - (self.origin.x * contentScale))/(self.scale * contentScale);		
+		float graphX = (i - (self.origin.x * contentScale))/(self.scale * contentScale);
 		float graphY = [self.delegate yForXvalue:graphX forGraphView:self];
 		float yVal = (self.origin.y * contentScale) - (graphY * contentScale * self.scale);
-		
+
 		if(i==0)
 		{
 			// Set start point
 			CGContextMoveToPoint(context, i/contentScale, yVal/contentScale);
 		}
-		else 
+		else
 		{
 			//NSLog(@"pixelX = %f, pointX = %f, pixelY= %f, pointY=%f",  i, (i/contentScale), yVal, (yVal/contentScale));
 			CGContextAddLineToPoint(context, i/contentScale, yVal/contentScale);
 		}
 	}
-	
+
 
 	[[UIColor blackColor] setStroke];
 	CGContextDrawPath(context,kCGPathStroke);
-	
+
 }
 
 - (void)dealloc {

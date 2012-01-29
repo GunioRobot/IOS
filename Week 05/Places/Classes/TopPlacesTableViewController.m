@@ -34,7 +34,7 @@
 
 - (void)setup
 {
-	
+
 	UITabBarItem *item = [[UITabBarItem alloc] initWithTabBarSystemItem:UITabBarSystemItemTopRated tag:0];
 
 	self.tabBarItem = item;
@@ -116,28 +116,28 @@
 
 // Customize the appearance of table view cells.
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    
+
     static NSString *CellIdentifier = @"TopPlacesCell";
-    
+
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
     if (cell == nil) {
         cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:CellIdentifier] autorelease];
     }
-    
+
 	NSString *content = [[self.places objectAtIndex:indexPath.row] objectForKey:@"_content"];
 	NSArray *components = [content componentsSeparatedByString:@","];
 	cell.textLabel.text = [components objectAtIndex:0];
 
-	NSRange theRange;	
+	NSRange theRange;
 	theRange.location = 1;
 	theRange.length = [components count] -1;
-	
-	components = [components subarrayWithRange:theRange]; 
-	 
+
+	components = [components subarrayWithRange:theRange];
+
 	cell.detailTextLabel.text = [components componentsJoinedByString:@","];
 	cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator;
     // Configure the cell...
-    
+
     return cell;
 }
 
@@ -154,14 +154,14 @@
 /*
 // Override to support editing the table view.
 - (void)tableView:(UITableView *)tableView commitEditingStyle:(UITableViewCellEditingStyle)editingStyle forRowAtIndexPath:(NSIndexPath *)indexPath {
-    
+
     if (editingStyle == UITableViewCellEditingStyleDelete) {
         // Delete the row from the data source.
         [tableView deleteRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] withRowAnimation:UITableViewRowAnimationFade];
-    }   
+    }
     else if (editingStyle == UITableViewCellEditingStyleInsert) {
         // Create a new instance of the appropriate class, insert it into the array, and add a new row to the table view.
-    }   
+    }
 }
 */
 
@@ -187,7 +187,7 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     // Navigation logic may go here. Create and push another view controller.
-    
+
     PlacePhotosTableViewController *placePhotosController = [[PlacePhotosTableViewController alloc] init];
     placePhotosController.place_id =  [[self.places objectAtIndex:indexPath.row] objectForKey:@"place_id"];
 	placePhotosController.title = [[self.places objectAtIndex:indexPath.row] objectForKey:@"_content"];
@@ -195,8 +195,8 @@
      // Pass the selected object to the new view controller.
     [self.navigationController pushViewController:placePhotosController animated:YES];
     [placePhotosController release];
-    
-	
+
+
 }
 
 
@@ -206,7 +206,7 @@
 - (void)didReceiveMemoryWarning {
     // Releases the view if it doesn't have a superview.
     [super didReceiveMemoryWarning];
-    
+
     // Relinquish ownership any cached data, images, etc. that aren't in use.
 }
 

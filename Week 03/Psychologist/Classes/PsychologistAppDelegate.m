@@ -17,8 +17,8 @@
 #pragma mark -
 #pragma mark Application lifecycle
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
-    
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+
     // Override point for customization after application launch.
     UINavigationController *navcon = [[UINavigationController alloc] init];
 	PsychologistViewController *pvc = [[PsychologistViewController alloc] init];
@@ -26,7 +26,7 @@
 	[pvc release];
 	[window addSubview:navcon.view];
     [window makeKeyAndVisible];
-    
+
     return YES;
 }
 
@@ -41,7 +41,7 @@
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
     /*
-     Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later. 
+     Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
      If your application supports background execution, called instead of applicationWillTerminate: when the user quits.
      */
 }

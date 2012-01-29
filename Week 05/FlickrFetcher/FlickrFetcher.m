@@ -83,9 +83,9 @@ static int maxResults = 50;
 	if (format == FlickrFetcherPhotoFormatOriginal) secret = [flickrInfo objectForKey:@"originalsecret"];
 	NSString *fileType = @"jpg";
 	if (format == FlickrFetcherPhotoFormatOriginal) fileType = [flickrInfo objectForKey:@"originalformat"];
-	
+
 	if (!farm || !server || !photo_id || !secret) return nil;
-	
+
 	NSString *formatString = @"s";
 	switch (format) {
 		case FlickrFetcherPhotoFormatSquare:    formatString = @"s"; break;
@@ -97,7 +97,7 @@ static int maxResults = 50;
 	}
 
 	return [NSString stringWithFormat:@"http://farm%@.static.flickr.com/%@/%@_%@_%@.%@", farm, server, photo_id, secret, formatString, fileType];
-}	
+}
 
 + (NSData *)imageDataForPhotoWithURLString:(NSString *)urlString
 {

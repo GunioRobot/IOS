@@ -21,7 +21,7 @@
 @property (retain) IBOutlet UISlider *slider;
 @property (retain) IBOutlet FaceView *faceView;
 
-- (IBAction)happinessChanged:(UISlider *)sender; 
+- (IBAction)happinessChanged:(UISlider *)sender;
 
 @end
 

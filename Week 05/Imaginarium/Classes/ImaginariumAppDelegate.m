@@ -13,7 +13,7 @@
 @synthesize window;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
-{     
+{
     UIImage *image = [UIImage imageNamed:@"ipod.jpg"];
 	imageView = [[UIImageView alloc] initWithImage:image];
 
@@ -30,7 +30,7 @@
 
 	[window addSubview:scrollView];
     [window makeKeyAndVisible];
-    
+
     return YES;
 }
 

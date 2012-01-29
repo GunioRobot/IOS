@@ -24,7 +24,7 @@
 - (IBAction)digitPressed:(UIButton *)sender
 {
 	NSString *digit	= sender.titleLabel.text;
-	
+
 	if(self.userIsInTheMiddleOfTypingANumber)
 	{
 		if([digit isEqual:(@".")]){
@@ -33,7 +33,7 @@
 		}
 		display.text = [display.text stringByAppendingString:digit];
 	}
-	else 
+	else
 	{
 		if([digit isEqual:(@".")]){
 			digit = [@"0" stringByAppendingString:digit];
@@ -41,7 +41,7 @@
 		display.text = digit;
 		userIsInTheMiddleOfTypingANumber = YES;
 	}
-						  
+
 }
 
 - (IBAction)variablePressed:(UIButton *)sender
@@ -60,10 +60,10 @@
 		self.brain.operand = [display.text doubleValue];
 		self.userIsInTheMiddleOfTypingANumber = NO;
 	}
-	
+
 	NSString *operation	= sender.titleLabel.text;
 	[self.brain performOperation:operation];
-	
+
 	if([[CalculatorBrain variablesInExpression:self.brain.expression] count])
 	{
 		display.text = [CalculatorBrain descriptionOfExpression:self.brain.expression];

@@ -34,9 +34,9 @@
 			operand = waitingOperand / operand;
 		}
 	}
-}	
-	
-- (double)performOperation:(NSString *)operation 
+}
+
+- (double)performOperation:(NSString *)operation
 {
 	if([operation isEqual:@"sqrt"])
 	{
@@ -86,7 +86,7 @@
 		waitingOperation = operation;
 		waitingOperand = operand;
 	}
-		
+
 	return operand;
 }
 

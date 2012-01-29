@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@class GraphView; //Lookahead 
+@class GraphView; //Lookahead
 
 @protocol GraphViewDelegate
 - (int)scaleForGraphView:(GraphView *)requestor;
